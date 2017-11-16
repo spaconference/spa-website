@@ -5,3 +5,7 @@ future: true
 kramdown:
   input: GFM
   hard_wrap: false
+
+conference:
+  conference_year: spa2018
+  current_year: 2017
