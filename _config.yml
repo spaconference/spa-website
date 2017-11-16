@@ -9,3 +9,4 @@ kramdown:
 conference:
   conference_year: spa2018
   current_year: 2017
+  name_html: <span class="conference-name">SPA<wbr><em>2018</em></span>
