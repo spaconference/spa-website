@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-curl --ftp-create-dirs -T _site/README.md -u $FTP_USER:$FTP_PASSWORD ftp.gridhost.co.uk/public_html/tmp/
+rsync -r --delete-after --quiet _site/ $SSH_USER@$DEPLOY_HOST:public_html/tmp/
