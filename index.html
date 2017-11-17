@@ -1,33 +1,6 @@
 ---
 ---
-
-<!DOCTYPE html>
-<html lang="en-GB">
-<head>
-  <meta charset="utf-8">
-      <title>{{ site.conference.conference_year }} conference</title>
-
-<base href="http://spaconference.org/{{ site.conference.conference_year }}/" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-  <!--[if lt IE 9]>
-      <script src="html5shiv.min.js"></script>
-  <![endif]-->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="spa.css" type="text/css">
-</head><body class="home">
-<header><div>
-  <h1>
-    <img alt="BCS" src="images/bcslogo.png" width="65" height="81">
-
-     <a href="http://spaconference.org/{{ site.conference.conference_year }}/" title="Home Page, shortcut key=1" >{{ site.conference.name_html }}</a>
-  </h1>
-      <h2>Software in Practice</h2>
-<p>{{ site.conference.dates }}</p>
-
-{% include menu.html %}
-
-</div></header>
+{% include header.html %}
 
 <div id="main">
     <main>
