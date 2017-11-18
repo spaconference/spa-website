@@ -9,10 +9,14 @@ env:
   global:
   - secure: f1+580K7qW0ZaPxNV9X5DuhhA4hXQTVnR167E24h9dxFpUT6T8nZudW5I0JH9HV7Ah+G1s6m0Jhjv8jmwCQACXN01nhwKjYIHGTYujFltNHZEfDECxY2xMkzk1a3EQqJe5Dz20Dt2ty7NB9BMmq6LkWuUt2Ja0/qWGsvar3BGDateM7D7Yv2GH+uSsbC3hSlNPGHTgJk33IsdEGBDgGNG4sxxeb9lzwAeJPT88qiwOkbvaYBfFmhvvQmvtYYRt8g/9tMTRAvQrUuNNq7AmPG8u0ZozGdr/mHPnJC5ZmUCtCsZGbluFAmPgZpAN6Gvs1r22EqKRfIa9NMkEMVxNVk+F4vQMkb2/PJW7DDHRHsbqBXRghBeKJonfuIc2oM6SijyUIaxU/+kGBWtDLnzN8K6tnFseiMdK3MuOxIBhtqnIn7wxTy2AnnmmOuGMIzEX1NRxI779hg9n64nOhjYCa30HNb4OMoRAQfnNk4tf/lKzs8oWdWrfys3HabZF8MxA8+VkXjp/1d8cphJG+kZi0aFD+cARvCKLOxCCBfO3yInLje/kQ2/mbfO+YS8jlyw6IhFBjDTNkAFynhFzFOr57EdIKFNTLQad69Sb9Mqb1XOg8bkuF7uYhRaL27ayAd5JVRh6hzewxX3486p1N3SPy0cK1aaVvGCrE0Al49dDo1FWY=
   - secure: q/1filDwIk0M7xkXekHq5sCqT5+YFk6Xvkz/90l92hxnWsQv5F02p80NRNveWIa0mCbfRPfQQfrCLjTKh+C9gJHN8qYuVeaSLnqmKunm/RV5BsCmtkTEEeyZu3PuWbUaLR2GIhAnZVCE3mtu4sj3PskrVdqGOLSrx86GmwQuU9CHgnFohLTD8EIpZG1q/JEqTV8/CeCQ8fFnbFb0W0ZfgncVjAcHttqBS44Z7XVS5uuz0txYIJ3hScOJnfZ4bFa27VM2zpkYgP4p7KwXRE5WamZpipOMJ6rOeqco6ynz0RHBQRxJbzy+sF0hIyTepou4NcXL3Gr8EZFTuqN89W6jOAuj6WYyvwD59SSq1fF+yxiPBRYM/UeFyxaFzuXT7hqlDnE8wyxJSP8EAAqWzHe/OFPqkGSBg/M9jsvwodL3Yp2ix6+GxyixH5txj6f0wLq8PLTaU/tMhJ0WRpPMzTdHojhaH/FHxqXdadE73YlPx3oKuxKXNKYhRkuBsAD7rk/95cUjnArt2I7gjcC+gSI+CbyAkYsBDaRP5kYZ/NmTibC8Zm+Tf1vt8lwrZKKQASEtpH/2nzVOZkdLFSZE7kp4stxkEkmCubvYPqzxSlAp13C8TjA9abfYjy6hyQg7xXZOplSJktvl0D3ogrCTKfdzvU3PG49ORhm4jELxTSS+mz0=
-after_success:
-- scripts/deploy.sh
-before_install:
+before_deploy:
 - openssl aes-256-cbc -K $encrypted_1ee39b83ab2f_key -iv $encrypted_1ee39b83ab2f_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
+deploy:
+  provider: script
+  script: scripts/deploy.sh
+  skip_cleanup: true
+  on:
+    branch: master
