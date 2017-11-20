@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+    {% if page.url == "/" %}
+      <title>{{ site.conference.conference_year_caps }} conference</title>
+    {% else %}
+      <title>{{ page.title }} - {{ site.conference.conference_year_caps }}</title>
+    {% endif %}
+
+    <base href="http://spaconference.org/{{ site.conference.conference_year }}/" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!--[if lt IE 9]>
+      <script src="html5shiv.min.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="spa.css" type="text/css">
+</head>
+
+  {% if page.url == "/" %}
+    <body class="home">
+  {% else %}
+    <body class="">
+  {% endif %}
+
+<header><div>
+  <h1>
+    <img alt="BCS" src="images/bcslogo.png" width="65" height="81">
+    <a href="http://spaconference.org/{{ site.conference.conference_year }}/" title="Home Page, shortcut key=1" >{{ site.conference.name_html }}</a>
+  </h1>
+
+  {% if page.url == "/" %}
+    <h2>Software in Practice</h2>
+    <p>{{ site.conference.dates }}</p>
+  {% endif %}
+
+  {% include menu.html %}
+
+</div></header>

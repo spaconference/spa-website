@@ -9,6 +9,9 @@ kramdown:
 exclude: [vendor, README.md, Gemfile*, scripts, deploy_rsa*]
 
 conference:
-  conference_year: spa2018
   current_year: 2017
+  conference_year: spa2018
+  conference_year_caps: SPA2018
   name_html: <span class="conference-name">SPA<wbr><em>2018</em></span>
+  dates: 2nd &ndash; 4th July 2018
+  cfp_open_date: 30th November 2017
