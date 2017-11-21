@@ -6,7 +6,20 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-exclude: [vendor, README.md, Gemfile*, scripts, deploy_rsa*]
+exclude:
+  # Don't remove any of these, we do not want these on the server
+  - vendor
+  - README.md
+  - Gemfile*
+  - scripts
+  - deploy_rsa*
+  # BELOW are pages that are not yet published for this year
+  # Comment out from this list when published
+  # DO NOT comment back in, we do not want 404s
+  # You can remove them from the menu (`_includes/menu.html`)
+  - sponsors.md
+  - refunds-and-cancellations.md
+  - book-now.md
 
 baseurl: /tmp
 
