@@ -8,6 +8,8 @@ kramdown:
 
 exclude: [vendor, README.md, Gemfile*, scripts, deploy_rsa*]
 
+baseurl: /tmp
+
 conference:
   current_year: 2017
   conference_year: spa2018
