@@ -12,6 +12,12 @@
       <div class="inner">
     {% endif %}
 
+    {% if page.has-nav %}
+      <nav>
+        {% include {{ page.has-nav }}-nav.html %}
+      </nav>
+    {% endif %}
+
     <main>
       {{ content }}
     </main>

@@ -1,17 +1,8 @@
 ---
 title: Lead a session at SPA
 layout: page
-has-nav: true
+has-nav: lead-a-session
 ---
-
-<nav>
-  <ul>
-    <li><a href="{{ '/lead-a-session.html' | relative_url }}"><span>Lead a Session</span></a></li>
-    <li><a href="{{ '/themes.html' | relative_url }}"><span>Conference Themes</span></a></li>
-    <li class="menuactive"><a class="menuactive" href="{{ '/formats.html' | relative_url }}"><span>Formats</span></a></li> 
-    <li><a href="{{ '/submission-stages.html' | relative_url }}"><span>Submission stages</span></a></li>
-  </ul>
-</nav>
 
 <h1>Session formats</h1>
 <p>You can propose whatever sort of session you want. That is why the box on the submission form is free text. </p>

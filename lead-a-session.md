@@ -1,17 +1,8 @@
 ---
 title: Lead a session at SPA
 layout: page
-has-nav: true
+has-nav: lead-a-session
 ---
-
-<nav>
-  <ul>
-    <li class="menuactive"><a class="menuactive" href="{{ '/lead-a-session.html' | relative_url }}"><span>Lead a Session</span></a></li>
-    <li><a href="{{ '/themes.html' | relative_url }}"><span>Conference Themes</span></a></li>
-    <li><a href="{{ '/formats.html' | relative_url }}"><span>Formats</span></a></li> 
-    <li><a href="{{ '/submission-stages.html' | relative_url }}"><span>Submission stages</span></a></li>
-  </ul>
-</nav>
 
 <h1>Propose a session</h1>
 <p>SPA Software in Practice is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
