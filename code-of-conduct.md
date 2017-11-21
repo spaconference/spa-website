@@ -10,4 +10,4 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 If a participant engages in behaviour that violates this code of conduct, the event organisers will take the appropriate action, including warning or expulsion from the conference with no refund.
 
-If participants have any concerns, please inform a member of the [organising committee](/organisers.html) or a member of BCS staff who will offer support in contacting the appropriate security and ensure required assistance is given.
+If participants have any concerns, please inform a member of the [organising committee]({{ '/organisers.html' | relative_url }}) or a member of BCS staff who will offer support in contacting the appropriate security and ensure required assistance is given.
