@@ -17,9 +17,9 @@ exclude:
   # Comment out from this list when published
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu (`_includes/menu.html`)
-  - sponsors.html
-  - refunds-and-cancellations.html
-  - book-now.html
+  - sponsors.md
+  - refunds-and-cancellations.md
+  - book-now.md
 
 baseurl: /tmp
 
