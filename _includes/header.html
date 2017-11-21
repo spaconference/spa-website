@@ -14,7 +14,7 @@
       <script src="html5shiv.min.js"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href= "/spa.css" type="text/css">
+    <link rel="stylesheet" href= "{{ '/spa.css' | relative_url }}" type="text/css">
 </head>
 
   {% if page.url == "/" %}
@@ -25,8 +25,8 @@
 
 <header><div>
   <h1>
-    <img alt="BCS" src="/images/bcslogo.png" width="65" height="81">
-    <a href="/">{{ site.conference.name_html }}</a>
+    <img alt="BCS" src="{{ '/images/bcslogo.png' | relative_url }}" width="65" height="81">
+    <a href="{{ '/' | relative_url }}">{{ site.conference.name_html }}</a>
   </h1>
 
   {% if page.url == "/" %}
