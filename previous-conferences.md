@@ -1,0 +1,33 @@
+---
+title: Previous conferences
+layout: page
+has-nav: true
+---
+
+<nav>
+  <ul>
+    <li><a href="http://spaconference.org/spa2017/"><span>SPA2017</span></a></li>
+    <li><a href="http://spaconference.org/spa2016/"><span>SPA2016</span></a></li>
+    <li><a href="http://spaconference.org/spa2015/"><span>SPA2015</span></a></li>
+    <li><a href="http://spaconference.org/spa2014/"><span>SPA2014</span></a></li>
+    <li><a href="http://spaconference.org/spa2013/"><span>SPA2013</span></a></li>
+    <li><a href="http://spaconference.org/spa2012/"><span>SPA2012</span></a></li>
+    <li><a href="http://spaconference.org/spa2011/"><span>SPA2011</span></a></li>
+    <li><a href="http://spaconference.org/spa2010/"><span>SPA2010</span></a></li>
+    <li><a href="http://spaconference.org/spa2009/"><span>SPA2009</span></a></li>
+    <li><a href="http://spaconference.org/spa2008/"><span>SPA2008</span></a></li>
+    <li><a href="http://spaconference.org/spa2007/"><span>SPA2007</span></a></li>
+    <li><a href="http://spaconference.org/spa2006/"><span>SPA2006</span></a></li>
+    <li><a href="http://spaconference.org/spa2005/"><span>SPA2005</span></a></li>
+    <li><a href="http://spaconference.org/ot2004/"><span>OT2004</span></a></li>
+    <li><a href="http://spaconference.org/ot2003/"><span>OT2003</span></a></li>
+    <li><a href="http://spaconference.org/ot2002/"><span>OT2002</span></a></li>
+    <li><a href="http://spaconference.org/ot2001/"><span>OT2001</span></a></li>
+    <li><a href="http://spaconference.org/ot2000/index.htm"><span>OT2000</span></a></li>
+    <li><a href="http://spaconference.org/ot99/"><span>OT99</span></a></li>
+    <li><a href="http://spaconference.org/ot98/"><span>OT98</span></a></li>
+    <li><a href="http://spaconference.org/ot97/"><span>OT97</span></a></li>
+  </ul>
+</nav>
+
+The conference is now in its 23rd year. You can see an archive of the previous conference sites dating back to 1997.
