@@ -1,0 +1,561 @@
+/** reset */
+blockquote,
+body,
+cite,
+dfn,
+fieldset,
+h1,
+h2,
+h3,
+hr,
+html,
+img,
+li,
+ol,
+p,
+pre,
+q,
+ul {
+    border:                 0;
+    margin:                 0;
+    padding:                0;
+}
+
+header,
+footer,
+nav,
+aside,
+main {
+    display:                block;
+}
+
+em,
+cite,
+blockquote,
+q {
+    font-style:             italic;
+}
+strong {
+    font-weight:            bold;
+}
+em q,
+blockquote em,
+blockquote q {
+    font-style:             normal;
+}
+input[type=text],
+input[type=password],
+input[type=submit],
+textarea {
+  font:                inherit;
+}
+/* /reset **/
+
+/** grid */
+header div,
+#main .inner,
+footer div {
+    box-sizing:             border-box;
+    margin:                 0 auto;
+    max-width:              1020px;
+    padding:                30px;
+    width:                  100%;
+}
+
+header div:after,
+#main .inner:after {
+    content:                '';
+    display:                block;
+    clear:                  both;
+}
+header div,
+#main .inner {
+    *zoom:                  1;
+}
+
+#main nav {
+    box-sizing:             border-box;
+    float:                  left;
+    padding-right:          15px;
+    width:                  33.3333333333%;
+}
+#main.has-nav main {
+    box-sizing:             border-box;
+    float:                  left;
+    padding-left:           15px;
+    width:                  66.6666666667%;
+}
+/* /grid **/
+
+/** general */
+body {
+    background:             #0b0c0c;
+    background:             linear-gradient(
+                              #0b0c0c 50%,
+                              #319f55 50%
+                            );
+    color:                  #fff;
+    font:                   19px/25px
+                            Helvetica, Arial, sans-serif;
+}
+
+#main {
+    background:             #fff;
+    color:                  #0b0c0c;
+}
+
+a {
+    color:                  #319f55;
+}
+a:hover,
+a:focus,
+a:active {
+    color:                  #0b0c0c;
+}
+.cta {
+    border:                 2px solid #319f55;
+    border-radius:          7px;
+    color:                  #319f55;
+    display:                inline-block;
+    font-size:              16px;
+    font-weight:            bold;
+    line-height:            20px;
+    padding:                8px 30px 6px;
+    text-decoration:        none;
+}
+.cta:hover,
+.cta:focus,
+.cta:active {
+    background:             #319f55;
+    color:                  #fff;
+}
+
+h1 {
+    font-size:              36px;
+    line-height:            40px;
+    margin-bottom:          20px;
+    margin-top:             45px;
+}
+h1:first-child {
+    margin-top:             0;
+}
+h2,
+legend {
+    font-size:              24px;
+    font-weight:            bold;
+    line-height:            30px;
+    margin-bottom:          20px;
+    margin-top:             45px;
+}
+h3 {
+    font-size:              inherit;
+    margin-bottom:          8px;
+    margin-bottom:          5.9375px;
+    margin-top:             20px;
+}
+p,
+fieldset {
+    margin:                 0.2631578947em 0 1.0526315789em;
+}
+address {
+    font-style:             normal;
+    white-space:            pre;
+}
+img.round {
+    border:                 1px solid transparent;
+    border-radius:          100%;
+}
+footer {
+    font-size:              16px;
+    line-height:            20px;
+}
+footer img {
+    vertical-align:         bottom;
+}
+
+.conference-name {
+  font-weight:              bold;
+}
+.conference-name em {
+  font-weight:              100;
+  font-style:               normal;
+}
+.errors {
+  color:                    red;
+  font-size:                11px;
+  font-weight:              bold;
+  line-height:              150%;
+}
+.ratings {
+    list-style:             none;
+    margin:                 0.2631578947em 0 1.0526315789em
+}
+
+label span {
+    display:                inline-block;
+    width:                  180px;
+}
+label.multiline input {
+    vertical-align:         top;
+}
+input[type=text],
+input[type=password],
+textarea {
+    width:                  100%;
+}
+@media (min-width: 700px) {
+  input[type=text],
+  input[type=password] {
+      width:                380px;
+  }
+  textarea {
+    width:                  560px;
+  }
+}
+/* /general **/
+
+/** header */
+header {
+    background:             #319f55;
+    color:                  #fff;
+    font-size:              16px;
+    line-height:            20px;
+}
+@supports (background-blend-mode:  multiply) {
+    .home header {
+        background-blend-mode:  multiply;
+        background-image:       url(images/header-bg.jpg);
+        background-repeat:      no-repeat;
+        background-size:        cover;
+        background-position:    100% 25%;
+    }
+}
+header div {
+    padding:                45px 30px;
+}
+header a {
+    color:                  #fff;
+    text-decoration:        none;
+}
+header h1 a:hover,
+header h1 a:focus,
+header h1 a:active {
+    text-decoration:        underline;
+}
+
+header h1 {
+    font-size:              48px;
+    line-height:            60px;
+    margin-bottom:          45px;
+    padding-left:           96px;
+}
+header h1:after {
+    content:                '';
+    display:                block;
+    clear:                  both;
+}
+header h1 {
+    *zoom:                  1;
+}
+header h1 img {
+  float: left;
+  margin-right: 10px;
+  margin-top:   7px;
+  margin-left: -96px;
+}
+
+header h2,
+header p {
+    font-size:              36px;
+    line-height:            40px;
+    margin:                 0;
+}
+header h2 {
+    margin-bottom:          13px;
+    margin-top:             -3px;
+}
+header p {
+    margin-bottom:          15px;
+}
+header .cta {
+    border-color:           #fff;
+    color:                  #fff;
+}
+header .cta:hover,
+header .cta:focus,
+header .cta:active {
+    background:             #fff;
+    color:                  #319f55;
+}
+
+header nav ul {
+    font-weight:            bold;
+    list-style:             none;
+    padding-top:            27px;
+}
+header nav li {
+    float:                  left;
+    margin-right:           20px;
+}
+header nav a,
+header nav li > span {
+    display:                inline-block;
+    padding-bottom:         3px;
+    border-bottom:          3px solid transparent;
+}
+header nav .menuactive a {
+    border-bottom-color:    #fff;
+}
+header nav a:hover,
+header nav a:focus,
+header nav a:active {
+    border-bottom-color:    #0b0c0c;
+}
+
+@media (min-width: 700px) {
+  header div {
+      padding-left: 129px;
+  }
+  header h1 {
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+  header nav {
+    margin-left: -96px;
+  }
+}
+
+/* /header **/
+
+/** #main */
+#main header {
+    background:             #dee0e2;
+    color:                  #319f55;
+}
+#main header h1 {
+    font-weight:            bold;
+    font-size:              36px;
+    line-height:            40px;
+}
+#main header h1.inner {
+    padding:                45px 30px;
+}
+#main nav ul {
+    font-size:              16px;
+    font-weight:            bold;
+    line-height:            20px;
+    list-style:             none;
+}
+#main nav li {
+    border-bottom:          1px solid #dee0e2;
+    padding:                16px 0 10px;
+}
+#main nav ul a {
+    color:                  inherit;
+    text-decoration:        none;
+}
+#main nav ul a.menuactive {
+    color:                  #319f55;
+}
+#main nav ul a.menuparent {
+    color:                  inherit;
+}
+#main nav ul a:hover,
+#main nav ul a:focus,
+#main nav ul a:active {
+    text-decoration:        underline;
+}
+#main nav .cta {
+    margin-top:             30px;
+}
+
+@media (min-width: 700px) {
+    #main section .inner {
+        padding:                 60px 30px;
+        padding-left:            360px;
+    }
+    #main section h1,
+    #main section img.round {
+        clear:                  both;
+        float:                  left;
+        margin-left:            -330px;
+        width:                  300px;
+    }
+    #main section h1 + img.round {
+        margin-top:             -40px;
+    }
+    #main section h1 + h2 {
+        margin-top:             0;
+    }
+    #main section:nth-child(even) .inner,
+    #main section:last-child .inner {
+        padding-left:           30px;
+        padding-right:          360px;
+    }
+    #main section:nth-child(even) h1,
+    #main section:last-child h1 {
+        float:                  none;
+        margin-left:            0;
+        width:                  auto;
+    }
+    #main section:nth-child(even) img.round,
+    #main section:last-child img.round {
+        float:                  right;
+        margin-right:           -330px;
+    }
+
+    .session main > *,
+    .person main > * {
+       margin-right:            330px;
+    }
+    .person main > img {
+       float:                   right;
+       margin:                  -75px 3px 15px 15px;
+    }
+}
+#main section .inner:after {
+    content:                '';
+    display:                block;
+    clear:                  both;
+}
+#main section .inner {
+    *zoom:                  1;
+}
+
+#main section .column {
+    box-sizing:             border-box;
+    float:                  left;
+    padding-right:          15px;
+    width:                  50%;
+}
+#main section h1 {
+    color:                  #319f55;
+}
+#main section .inner div h2 {
+    margin-top:             0;
+}
+#main section:nth-child(even) {
+    background:             #0b0c0c;
+    color:                  #fff;
+}
+#main section:nth-child(even) h1 {
+    color:                  #fff;
+}
+#main section:nth-child(even) .cta {
+    border-color:           #fff;
+    color:                  #fff;
+}
+#main section:nth-child(even) .cta:hover,
+#main section:nth-child(even) .cta:focus,
+#main section:nth-child(even) .cta:active {
+    background:             #fff;
+    color:                  #0b0c0c;
+}
+
+
+#main section:last-child {
+    background:             #dee0e2;
+    color:                  #0b0c0c;
+}
+#main section:last-child h1 {
+    color:                  inherit;
+}
+#main section:last-child .cta {
+    border-color:           #319f55;
+    color:                  #319f55;
+}
+#main section:last-child .cta:hover,
+#main section:last-child .cta:focus,
+#main section:last-child .cta:active {
+    background:             #319f55;
+    color:                  #fff;
+}
+
+.programme ol:after {
+    content:                '';
+    display:                block;
+    clear:                  both;
+}
+.programme ol {
+    *zoom:                  1;
+}
+.programme ol,
+.programme ul {
+    list-style:             none;
+}
+.programme ol > li {
+    margin:                 15px 0;
+}
+.programme h3,
+.programme h4 {
+    margin:                 0;
+}
+
+.programme .break {
+  background:               #dee0e2;
+  font-style:               italic;
+  margin-left:              -5px;
+  padding:                  5px;
+}
+.programme .break h3 {
+  font-style:               normal;
+}
+
+@media (min-width: 700px) {
+  .programme h3 {
+    float:                  left;
+    width:                  4em;
+    max-width:              50%;
+  }
+  
+  .programme ol div {
+    float:                  left;
+    width:                  70%;
+  }
+  .programme ol > li {
+    float:                  left;
+  }
+
+
+  .programme .all-tracks {
+    width:                  100%;
+  }
+
+  .programme .track-a {
+    width:                  40%;
+  }
+  .programme .track-b,
+  .programme .track-c {
+    width:                  30%;
+  }
+  .programme .track-a h3 span,
+  .programme .track-b h3,
+  .programme .track-c h3 {
+    left:                   -999em;
+    position:               absolute;
+  }
+
+  .programme .break {
+    text-align:             center;
+  }
+  .programme .break h3 {
+    margin-right:           -4em;
+    text-align:             left;
+  }
+}
+/* /#main **/
+
+/** footer */
+footer {
+    background:             #0b0c0c;
+    color:                  #fff;
+}
+footer a {
+    color:                  #fff;
+}
+footer a:hover,
+footer a:focus,
+footer a:active {
+    color:                  #319f55;
+}
+/* /footer **/
