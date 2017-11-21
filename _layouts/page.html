@@ -3,7 +3,7 @@
 
 {% include header.html %}
 
-  <div id="main"{% if page.has-nav == true %} class="has-nav"{% endif %}>
+  <div id="main"{% if page.has-nav %} class="has-nav"{% endif %}>
 
     {% if page.url != "/" %}
       <header><h1 class="inner">
