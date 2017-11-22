@@ -12,8 +12,7 @@ layout: page
 <td>
 <p>Gen Ashley <em>Women Who Code</em><br />
 Giovanni Asproni <em>Zuhlke</em><br />
-<script language="javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%63%6f%6e%66%65%72%65%6e%63%65%40%73%70%61%63%6f%6e%66%65%72%65%6e%63%65%2e%6f%72%67%22%3e%63%6f%6e%66%65%72%65%6e%63%65%40%73%70%61%63%6f%6e%66%65%72%65%6e%63%65%2e%6f%72%67%3c%2f%61%3e%27%29%3b'))</SCRIPT><NOSCRIPT><a href="http://www.quarella.co.uk/email/spamproof-noscript.html">[spam-blocked email address]</a></NOSCRIPT></td>
-</tr>
+<script language="javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%63%6f%6e%66%65%72%65%6e%63%65%40%73%70%61%63%6f%6e%66%65%72%65%6e%63%65%2e%6f%72%67%22%3e%63%6f%6e%66%65%72%65%6e%63%65%40%73%70%61%63%6f%6e%66%65%72%65%6e%63%65%2e%6f%72%67%3c%2f%61%3e%27%29%3b'))</SCRIPT><NOSCRIPT><a href="http://www.quarella.co.uk/email/spamproof-noscript.html">[spam-blocked email address]</a></NOSCRIPT>
 <tr><th>Programme Chairs</th>
 <td>Jenny Duckett <em>Government Digital Service</em><br />
 Melinda Seckington <em>FutureLearn</em><br />
