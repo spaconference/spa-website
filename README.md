@@ -1,6 +1,6 @@
 # SPA website
 
-This is the jekyll project for programme chairs to produce most of the pages associated with the [http://spaconference.org](SPA conference) website.
+This is the jekyll project for programme chairs to produce most of the pages associated with the [SPA conference](http://spaconference.org) website.
 
 There are some pages that cannot be edited from here:
 
@@ -24,4 +24,4 @@ If you want to add a brand new page, you just need to add it, and add it to the 
 
 ## If a page is no longer needed
 
-When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed nad remove it from the menu.
+When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed and remove it from the menu.
