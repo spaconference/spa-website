@@ -13,13 +13,13 @@ In addition, previous conference sites are left in situ once the year changes. T
 
 You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.
 
-Follow the commands in [deploy.sh](/deploy.sh).
+Follow the commands in [/scripts/build.sh](/scripts/build.sh).
 
 The output of the first command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
 
 ## To update the site
 
-Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist.
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist. You can merge your own pull requests.
 
 Merging to master will deploy your changes to the live site.
 
