@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.3.3
-script: scripts/build.sh tmp/
+script: scripts/build.sh spa2018/
 branches:
   only:
   - master
@@ -17,7 +17,7 @@ before_deploy:
 - ssh-add /tmp/deploy_rsa
 deploy:
   provider: script
-  script: scripts/deploy.sh tmp/
+  script: scripts/deploy.sh spa2018/
   skip_cleanup: true
   on:
     branch: master

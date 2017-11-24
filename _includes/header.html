@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
     {% if page.url == "/" %}
-      <title>{{ site.conference.conference_year_caps }} conference</title>
+      <title>{{ site.conference.conference_year }} conference</title>
     {% else %}
-      <title>{{ page.title }} - {{ site.conference.conference_year_caps }}</title>
+      <title>{{ page.title }} - {{ site.conference.conference_year }}</title>
     {% endif %}
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
     <!--[if lt IE 9]>
-      <script src="html5shiv.min.js"></script>
+      <script src="{{ '/html5shiv.min.js' | relative_url }}"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href= "{{ '/spa.css' | relative_url }}" type="text/css">
