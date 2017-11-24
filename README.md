@@ -1,6 +1,6 @@
 # SPA website
 
-This is the jekyll project for programme chairs to produce the static pages for the website of [SPA: Software in Practice](http://spaconference.org).
+Produce the static pages for the website of [SPA: Software in Practice](http://spaconference.org).
 
 The non-static parts of the site are:
 
@@ -9,11 +9,17 @@ The non-static parts of the site are:
 
 In addition, previous conference sites are left in situ once the year changes. There is a back up of them in the [SPA conference organisation](https://github.com/spaconference/previous-spa-sites) or they can be seen from the [current SPA site](http://spaconference.org).
 
-To run locally: `bundle exec jekyll serve`. The output of that command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
+# To run locally
+
+You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.
+
+Follow the commands in [deploy.sh](/deploy.sh).
+
+The output of the first command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
 
 ## To update the site
 
-Do not commit to master. Raise a pull request with your changes and then merge to master when ready.
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready. Htmlproofer will run on pull requests to confirm that all links exist.
 
 Merging to master will deploy your changes to the live site.
 
