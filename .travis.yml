@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.3.3
-script: scripts/build.sh
+script: scripts/build.sh tmp/
 branches:
   only:
   - master
