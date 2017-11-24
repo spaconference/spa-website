@@ -40,4 +40,4 @@ layout: page
 </ul>
 
 <p></p>
-<p><a href="mailto:conference@spaconference.org?Subject={{ site.conference.conference_year_caps }}%20Sponsorship" target="_top">Contact us</a> to discuss how sponsoring {{ site.conference.name_html }} can benefit your organisation.</p>
+<p><a href="mailto:conference@spaconference.org?Subject={{ site.conference.conference_year }}%20Sponsorship" target="_top">Contact us</a> to discuss how sponsoring {{ site.conference.name_html }} can benefit your organisation.</p>
