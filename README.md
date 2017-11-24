@@ -1,4 +1,4 @@
-# SPA website
+# SPA website ![Travis build status](https://api.travis-ci.org/spaconference/spa-website.svg?branch=master)
 
 Produce the static pages for the website of [SPA: Software in Practice](http://spaconference.org).
 
@@ -19,7 +19,7 @@ The output of the first command will tell you where the site is running locally 
 
 ## To update the site
 
-Do not commit to master. Raise a pull request with your changes and then merge to master when ready. Htmlproofer will run on pull requests to confirm that all links exist.
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist.
 
 Merging to master will deploy your changes to the live site.
 
