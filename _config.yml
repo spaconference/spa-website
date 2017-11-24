@@ -20,6 +20,7 @@ exclude:
   - sponsors.md
   - refunds-and-cancellations.md
   - book-now.md
+  - bofs.md
 
 baseurl: /tmp
 
