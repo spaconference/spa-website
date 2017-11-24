@@ -1,14 +1,27 @@
 # SPA website
 
-This is the jekyll project for programme chairs to produce most of the pages associated with the [http://spaconference.org](SPA conference) website.
+Produce the static pages for the website of [SPA: Software in Practice](http://spaconference.org).
 
-There are some pages that cannot be edited from here:
+The non-static parts of the site are:
 
  - The programme. This is worked on by the organisers privately and published via a different route when ready.
- - Previous conferences, which are left in situ once the year changes. There is a backup of them in the [SPA conference organisation](https://github.com/spaconference/previous-spa-sites).
  - Scripts under MySpa. The PHP functionality of the site is in another (currently private) repo.
 
-To run locally: `bundle exec jekyll serve`. The output of that command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
+In addition, previous conference sites are left in situ once the year changes. There is a back up of them in the [SPA conference organisation](https://github.com/spaconference/previous-spa-sites) or they can be seen from the [current SPA site](http://spaconference.org).
+
+# To run locally
+
+You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.
+
+Follow the commands in [deploy.sh](/deploy.sh).
+
+The output of the first command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
+
+## To update the site
+
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready. Htmlproofer will run on pull requests to confirm that all links exist.
+
+Merging to master will deploy your changes to the live site.
 
 ## If you want to add a page
 
@@ -24,4 +37,4 @@ If you want to add a brand new page, you just need to add it, and add it to the 
 
 ## If a page is no longer needed
 
-When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed nad remove it from the menu.
+When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed and remove it from the menu.
