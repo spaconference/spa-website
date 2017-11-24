@@ -10,6 +10,12 @@ There are some pages that cannot be edited from here:
 
 To run locally: `bundle exec jekyll serve`. The output of that command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
 
+## To update the site
+
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready.
+
+Merging to master will deploy your changes to the live site.
+
 ## If you want to add a page
 
 Some of the common pages are already present in this repo but excluded from the build and the menu. If you want to use one of those pages:
