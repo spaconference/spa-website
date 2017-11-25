@@ -13,9 +13,25 @@ In addition, previous conference sites are left in situ once the year changes. T
 
 You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.
 
-Follow the commands in [/scripts/build.sh](/scripts/build.sh).
+To run the site locally:
 
-The output of the first command will tell you where the site is running locally (something like `localhost:4000/$conference_year/`).
+```
+bundle exec jekyll serve --watch
+```
+
+The `--watch` means that you will not have to restart the server to see changes reflected on your locally running site. However, you always need to restart if you make changes to `_config.yml`.
+
+The output of this command will tell you where the site is running locally. It will be something like `localhost:4000/$conference_year/` (note the closing slash).
+
+`$conference_year` is whatever is set as the `baseurl` in [_config.yml](_config.yml).
+
+To run the tests locally:
+
+```
+bundle exec htmlproofer --assume-extension --url-swap $conference_year: ./_site
+```
+
+where `$conference_year` is as above, the `baseurl` in [_config.yml](_config.yml).
 
 ## To update the site
 
