@@ -51,6 +51,10 @@ The [book now](book-now.md) page can be added as a button above the menu; the co
 
 If you want to add a brand new page, you just need to add it, and add it to the menu if appropriate.
 
+## How to handle internal navigation
+
+The Lead a session pages have internal navigation. Follow the pattern in [_includes/lead-a-session-nav.html](_includes/lead-a-session-nav.html) to add or remove pages from the internal navigation. Make sure new pages have `has-nav: lead-a-session` in the yaml front matter. (See for example [lead-a-session.md](/lead-a-session.md).)
+
 ## If a page is no longer needed
 
 When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed and remove it from the menu.
