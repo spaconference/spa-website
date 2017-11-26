@@ -29,7 +29,7 @@ has-nav: lead-a-session
 <p>The Programme Meeting will be in mid March 2016 in Central London. The exact timing and venue will be announced closer the time. If you would like to be involved in the Programme Meeting, please contact us.</p>
 <p>At this stage, submissions are still anonymous. We lay out cards with all the sessions and their scores, and formulate a draft programme. High scores are not the only thing we look at, as we want the programme to be as varied and balanced as possible, so we might not want four sessions on Node.js, for example. Those present are also given the opportunity to advocate for particular sessions, for example if it has received average reviews but they feel it would complement other sessions at the conference.</p>
 <p>We then reveal names to check that no-one has too many sessions in, or several at the same time.</p>
-<p>We will announce the programme on 1st April.</p>
+<p>We will contact successful submitters after the programme meeting and we'll announce the programme in mid-April.</p>
 <h2>Shepherding</h2>
 <p>All presenters are assigned a shepherd. A shepherd is someone who has experience presenting, maybe at SPA, and ideally in a similar area to the session leaders. They offer advice and support to help people prepare their sessions, and may meet with the session leaders and perhaps help arrange dry-runs prior to the conference. (We do recommend that you have at least one dry-run of your session.)</p>
 <p>We are always looking for people to help shepherd, so please do let us know if you'd like to get involved in this.</p>
