@@ -21,7 +21,7 @@ has-nav: lead-a-session
 <li>Overall, do you think we should accept this session?</li>
 </ol></ol>
 <p>There is more context to help you answer these questions in the review form.</p>
-<p>We also make suggestions about the submissions - for example if we feel a session would be really good, but would require shepherding.</p>
+<p>We also make suggestions about the submissions - for example if we feel a session would be really good, but would require more shepherding.</p>
 <p>Submitters do not get notified of the reviews, but if they have been involved in the feedback stages (and we encourage everyone to get involved) they will have access so it's still important to be constructive. And it would be bad form to down-vote a session you see as a competitor to one you have submitted!</p>
 <p>Again, ideally we would like every session to receive at least three reviews so that we can be sure the conference will have wide appeal.</p>
 <p>We encourage everyone to get involved in reviewing as well, even if you haven't been to SPA Conference before - the basis is whether you would like to attend the session or think it would be valuable.</p>
@@ -31,7 +31,7 @@ has-nav: lead-a-session
 <p>We then reveal names to check that no-one has too many sessions in, or several at the same time.</p>
 <p>We will announce the programme on 1st April.</p>
 <h2>Shepherding</h2>
-<p>New presenters are offered the support of a shepherd, and any presenter can ask for one­. A shepherd is someone who has experience presenting, maybe at SPA, and ideally in a similar area to the session leaders. They offer advice and support to help people prepare their sessions, and may meet with the session leaders and perhaps help arrange dry-runs prior to the conference. (We do recommend that you have at least one dry-run of your session, regardless of whether the session is shepherded.)</p>
+<p>All presenters are assigned a shepherd. A shepherd is someone who has experience presenting, maybe at SPA, and ideally in a similar area to the session leaders. They offer advice and support to help people prepare their sessions, and may meet with the session leaders and perhaps help arrange dry-runs prior to the conference. (We do recommend that you have at least one dry-run of your session.)</p>
 <p>We are always looking for people to help shepherd, so please do let us know if you'd like to get involved in this.</p>
 <h2>Key dates</h2>
 <ol><ol>
