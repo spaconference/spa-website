@@ -22,7 +22,7 @@ has-nav: lead-a-session
 
 <h2>The submission and selection process</h2>
 <p>To submit your proposal, complete the <a href="http://spaconference.org/scripts/makeproposal.php">form on the website</a>.</p>
-<p>Your submission is completely anonymous right up until we have the draft programme - then we just check that you're not down to do two talks at once.</p>
+<p>Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.</p>
 <p>All sessions submitted by 10pm on 7th January 2018 will receive feedback to help improve the proposal.</p>
 <p>Submissions can be edited until the hard deadline of 4th February 2018.</p>
 <p>The submission and selection process is described in more detail <a href="{{ '/submission-stages.html' | relative_url }}">here</a>.</p>
