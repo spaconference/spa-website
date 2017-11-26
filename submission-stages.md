@@ -42,5 +42,6 @@ has-nav: lead-a-session
 <li>Shepherding: 1st April to conference.</li>
 </ul>
 </ol></ol>
-<p>If you have any questions or would like to be involved, please contact us:<em>programme@spaconference.org</em></p>
-<p>Paul Shannon and Alex Wilson, Programme Chairs, SPA2016.</p>
+<p>If you have any questions or would like to be involved, please contact us:</p>
+<p><em>programme@spaconference.org</em></p>
+<p>Jenny Duckett and Melinda Seckington, Programme Chairs, SPA 2018</p>
