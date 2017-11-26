@@ -25,8 +25,8 @@ has-nav: lead-a-session
 <p>Submitters do not get notified of the reviews, but if they have been involved in the feedback stages (and we encourage everyone to get involved) they will have access so it's still important to be constructive. And it would be bad form to down-vote a session you see as a competitor to one you have submitted!</p>
 <p>Again, ideally we would like every session to receive at least three reviews so that we can be sure the conference will have wide appeal.</p>
 <p>We encourage everyone to get involved in reviewing as well, even if you haven't been to SPA Conference before - the basis is whether you would like to attend the session or think it would be valuable.</p>
-<h2>Programme Meeting</h2>
-<p>The Programme Meeting will be in mid March 2016 in Central London. The exact timing and venue will be announced closer the time. If you would like to be involved in the Programme Meeting, please contact us.</p>
+<h2>Programme meeting</h2>
+<p>The programme meeting will be in mid March 2016 in Central London. The exact timing and venue will be announced closer the time. If you would like to be involved in the programme meeting, please contact us.</p>
 <p>At this stage, submissions are still anonymous. We lay out cards with all the sessions and their scores, and formulate a draft programme. High scores are not the only thing we look at, as we want the programme to be as varied and balanced as possible, so we might not want four sessions on Node.js, for example. Those present are also given the opportunity to advocate for particular sessions, for example if it has received average reviews but they feel it would complement other sessions at the conference.</p>
 <p>We then reveal names to check that no-one has too many sessions in, or several at the same time.</p>
 <p>We will contact successful submitters after the programme meeting and we'll announce the programme in mid-April.</p>
