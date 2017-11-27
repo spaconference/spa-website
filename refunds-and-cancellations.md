@@ -13,4 +13,4 @@ layout: page
 <p>The booking fee covers attendance at the conference for both the formal sessions and informal activities for the days booked, social activities (diversions) on those days, lunch on the days booked and full conference documentation.</p>
 
 <h2>Changes to the conference</h2>
-<p>The programme details are subject to alteration without notice. Latest programme details will be displayed on this website. The SPA Specialist Group reserves the right to cancel any event. In the highly unlikely event that {conference_name} is cancelled, then a full refund will be given.</p>
+<p>The programme details are subject to alteration without notice. Latest programme details will be displayed on this website. The SPA Specialist Group reserves the right to cancel any event. In the highly unlikely event that {{ site.conference.name_with_year }} is cancelled, then a full refund will be given.</p>

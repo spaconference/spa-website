@@ -39,4 +39,4 @@ has-nav: lead-a-session
 <p>Programme announced: 3rd April 2018</p>
 <p>If you're uncertain about whether to submit your idea, or have other queries, please feel free to get in touch with us at</p>
 <p><em>programme@spaconference.org</em></p>
-<p>Jenny Duckett and Melinda Seckington, Programme Chairs, SPA Software in Practice 2018</p>
+<p>Jenny Duckett and Melinda Seckington, Programme Chairs, {{ site.conference.name_with_year }}</p>

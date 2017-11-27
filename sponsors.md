@@ -3,7 +3,7 @@ title: Sponsors
 layout: page
 ---
 
-<p>We are grateful to our conference sponsors for providing resources and time to make SPA Software in Practice 2018 a success.</p>
+<p>We are grateful to our conference sponsors for providing resources and time to make {{ site.conference.name_with_year }} a success.</p>
 
 <a href="https://www.contino.io" title="Contino">{image src="Contino_Logo_DarkGrey_Large_Web.png" width=600 height=218}
 </a> 

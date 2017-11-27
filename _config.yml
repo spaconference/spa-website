@@ -28,5 +28,6 @@ conference:
   current_year: 2017
   conference_year: SPA2018
   name_html: <span class="conference-name">SPA<wbr><em>2018</em></span>
+  name_with_year: SPA Software in Practice 2018
   dates: 2nd &ndash; 4th July 2018
   cfp_open_date: 30th November 2017

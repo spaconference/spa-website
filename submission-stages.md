@@ -44,4 +44,4 @@ has-nav: lead-a-session
 </ol></ol>
 <p>If you have any questions or would like to be involved, please contact us:</p>
 <p><em>programme@spaconference.org</em></p>
-<p>Jenny Duckett and Melinda Seckington, Programme Chairs, SPA Software in Practice 2018</p>
+<p>Jenny Duckett and Melinda Seckington, Programme Chairs, {{ site.conference.name_with_year }}</p>
