@@ -3,7 +3,7 @@ title: Location
 layout: page
 ---
 
-{{ site.conference.name_html }} will take place in the BCS's London Office.
+{{ site.conference.name_with_year }} will take place in the BCS's London Office.
 
 <img style="margin: 15px 3px 15px 15px; float: right;" src="{{ '/images/BCSLondon.jpg' | relative_url }}" alt="BCS London entrance with clock" width="141" height="400" />
 

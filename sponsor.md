@@ -3,7 +3,7 @@ title: Sponsorship opportunities
 layout: page
 ---
 <p>{{ site.conference.name }} attracts many participants who are experts in their fields, and who often play a leading role in product and service recommendation and acquisition.</p>
-<p>Becoming a sponsor of {{ site.conference.name_html }} provides the highest possible profile at the event.</p>
+<p>Becoming a sponsor of {{ site.conference.name }} provides the highest possible profile at the event.</p>
 
 <h2>Sponsorship Benefits</h2>
 
@@ -40,4 +40,4 @@ layout: page
 </ul>
 
 <p></p>
-<p><a href="mailto:conference@spaconference.org?Subject={{ site.conference.conference_year }}%20Sponsorship" target="_top">Contact us</a> to discuss how sponsoring {{ site.conference.name_html }} can benefit your organisation.</p>
+<p><a href="mailto:conference@spaconference.org?Subject={{ site.conference.name }}%20Sponsorship" target="_top">Contact us</a> to discuss how sponsoring {{ site.conference.name }} can benefit your organisation.</p>
