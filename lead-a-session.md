@@ -14,7 +14,7 @@ has-nav: lead-a-session
 <p>At SPA you can experiment and try something new, or bring a session you’ve perfected elsewhere - we value both. All submissions get feedback to help them improve, and accepted sessions will be assigned a shepherd to help with preparation so we’ll support you along the way.</p>
 <p>You can get an idea of the sort of sessions that have run previously from the websites for <a href="{{ '/previous-conferences.html' | relative_url }}">previous years' conferences</a>.</p>
 <p>But don't be constrained by any of these ideas; maybe you've got something totally new to bring. We'd like to hear it.</p>
-<p>We’d love to see in your proposal how you’ll make your session interactive and get participants involved. You can get some ideas of ways to do that from <a href="{{ 'formats.html' | relative_url }}">our formats page</a> or propose anything else you like.</p>
+<p>We’d love to see in your proposal how you’ll make your session interactive and get participants involved. You can get some ideas of ways to do that from <a href="{{ 'interactivity.html' | relative_url }}">our page of suggestions for interactivity</a> or propose anything else you like.</p>
 
 <h2>Who do we want to hear from?</h2>
 <p>Anyone involved in the process of developing software, whatever your role - product manager, artist, developer, musician, business analyst, designer...</p>
