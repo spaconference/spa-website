@@ -12,12 +12,12 @@ layout: page
 <h1>The location</h1>
 <img src="{{ '/images/bcs-london.jpg' | relative_url }}" alt="Photo of BCS office" width="300" height="300" class="round"/>
 <p>{{ site.conference.name_with_year }} will take place in the excellent facilities provided by The BCS’s London office. Located in the heart of London’s West End on Southampton Street, just a few moments walk from Covent Garden, the venue is easy to reach by public transport and is located near a wide range of hotels.</p>
-<a href="/location.html">More about the location.</a></div></section>
+<a href="{{ '/location.html' | relative_url }}">More about the location.</a></div></section>
 
 <section><div class="inner">
 <h1>Organisers</h1>
 <p>The conference is being chaired by Gen Ashley and Giovanni Asproni.</p>
 <p>The programme is being organised by Jenny Duckett and Melinda Seckington.</p>
-<p>Please  <a href="/organisers.html">contact us</a> if you have any questions.</p>
+<p>Please <a href="{{ '/organisers.html' | relative_url }}">contact us</a> if you have any questions.</p>
 <p></p>
 </div></section>
