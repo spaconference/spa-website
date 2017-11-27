@@ -1,5 +1,5 @@
 ---
-title: Lead a session at SPA Software in Practice
+title: Lead a session
 layout: page
 has-nav: lead-a-session
 ---
