@@ -3,7 +3,7 @@ layout: page
 ---
 <section><div class="inner">
 <h1>About the Conference</h1>
-<p>The annual BCS SPA Software in Practice conference brings together experts and practitioners to share the latest thinking in software development.</p>
+<p>The annual BCS {{ site.conference.name }} conference brings together experts and practitioners to share the latest thinking in software development.</p>
 <p>Now in its 23rd year, our conference has a tradition of active participation. We encourage conference sessions that bring people together to work and learn and in most cases, many sessions are highly interactive, involving participants and session leaders on an equal footing. This results in a conference like no other and consistently excellent feedback from all those who attend.</p>
 </div>
 </section>

@@ -2,16 +2,16 @@
 title: Sponsorship opportunities
 layout: page
 ---
-<p>SPA Software in Practice attracts many participants who are experts in their fields, and who often play a leading role in product and service recommendation and acquisition.</p>
+<p>{{ site.conference.name }} attracts many participants who are experts in their fields, and who often play a leading role in product and service recommendation and acquisition.</p>
 <p>Becoming a sponsor of {{ site.conference.name_html }} provides the highest possible profile at the event.</p>
 
 <h2>Sponsorship Benefits</h2>
 
 <h3>General Sponsorship - £1250 + 20% VAT (Three Available)</h3>
-<p>Be a core supporter of the SPA Software in Practice conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
+<p>Be a core supporter of the {{ site.conference.name }} conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
 <ul>
    <li>Large logo on the conference website</li>
-   <li>Placement of a short promotional message on the SPA Software in Practice conference website</li>
+   <li>Placement of a short promotional message on the {{ site.conference.name }} conference website</li>
    <li>Thanks and acknowledgement on conference social media channels</li>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
    <li>Opportunity to give a 10 minute "lightning talk" at a plenary session</li>
@@ -31,7 +31,7 @@ layout: page
 </ul>
 
 <h3>Lunch Package - £750 + 20% VAT (Three Available)</h3>
-<p>Sponsor one of the conference lunches and gain attention from attendees as they are gathered together for one of SPA Software in Practice's buffet lunches, where attendees mingle and share their experiences of the conference that morning.</p>
+<p>Sponsor one of the conference lunches and gain attention from attendees as they are gathered together for one of {{ site.conference.name }}'s buffet lunches, where attendees mingle and share their experiences of the conference that morning.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
    <li>Opportunity to run a "brown bag" session for the conference attendees during the lunch break</li>

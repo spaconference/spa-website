@@ -17,9 +17,9 @@ layout: page
 <p>The conference committee has the absolute discretion to remove someone from the programme. This may happen if a session leader has not complied with these terms and conditions or the  <a href="{{ '/code-of-conduct.html' | relative_url }}" title="Code of Conduct" >code of conduct</a>. If a session is removed from the programme, the session leaders will no longer be eligible for free attendance at the conference.</p>
 
 <h3>Use of your data</h3>
-<p>Those registered with this website are advised that information they provide will be held on computer databases for administrative purposes. If you are leading a session, the information you provide in your profile will be published on the SPA Software in Practice website.</p>
+<p>Those registered with this website are advised that information they provide will be held on computer databases for administrative purposes. If you are leading a session, the information you provide in your profile will be published on the {{ site.conference.name }} website.</p>
 
-<p>If you have consented to receive emails about SPA Software in Practice, you may be contacted about being involved in the conference (for example, reviewing sessions, or submitting a proposal) and about future conferences.</p>
+<p>If you have consented to receive emails about {{ site.conference.name }}, you may be contacted about being involved in the conference (for example, reviewing sessions, or submitting a proposal) and about future conferences.</p>
 
 <p>Your information will not be shared with other groups.</p>
 
