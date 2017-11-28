@@ -7,7 +7,7 @@ layout: page
 <p>In the event that a booked participant is unable to attend, a substitute may participate in their place provided that the organisers are notified in advance of the conference.</p>
 
 <h2>Cancellations</h2>
-<p>In the events of cancellation by the participant, and provided that written notice is received before 18th June 2014, the participant will receive a full refund. If no notice of cancellation is received before 18th June 2014, no refund can be made.</p>
+<p>In the events of cancellation by the participant, and provided that written notice is received before 20th June 2018, the participant will receive a full refund. If no notice of cancellation is received before 20th June 2018, no refund can be made.</p>
 
 <h2>What's provided</h2>
 <p>The booking fee covers attendance at the conference for both the formal sessions and informal activities for the days booked, social activities (diversions) on those days, lunch on the days booked and full conference documentation.</p>
