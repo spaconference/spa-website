@@ -4,7 +4,7 @@ layout: page
 has-nav: lead-a-session
 ---
 
-<h1>Propose a session</h1>
+<h1>Lead a session</h1>
 <p>{{ site.conference.name }} is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
 <p>All the sessions are interactive - everyone can be an active participant and learn by doing.</p>
 
