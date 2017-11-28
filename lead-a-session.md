@@ -4,7 +4,7 @@ layout: page
 has-nav: lead-a-session
 ---
 
-<h1>Propose a session</h1>
+<h1>Lead a session</h1>
 <p>{{ site.conference.name }} is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
 <p>All the sessions are interactive - everyone can be an active participant and learn by doing.</p>
 
@@ -30,7 +30,7 @@ has-nav: lead-a-session
 <h2>What we offer</h2>
 <p>We will help you make your session the best it can be, both through our feedback process prior to the submissions deadline and our shepherding process if your session is accepted. More detail on these stages is <a href="{{ '/submission-stages.html' | relative_url }}">here</a>.</p>
 <p>The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, you will receive a full refund. See <a href="{{ '/terms-and-conditions.html' | relative_url }}">here</a> for conditions.</p>
-<p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected.</p>
+<p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)</p>
 
 <h2>Important dates</h2>
 <p>The conference: 2nd - 4th July 2018 - British Computer Society, London, UK</p>
