@@ -1,11 +1,11 @@
 ---
-title: Lead a session at SPA
+title: Lead a session
 layout: page
 has-nav: lead-a-session
 ---
 
 <h1>How can I make my session interactive?</h1>
-<p>Every session at SPA Software in Practice is interactive in some way. To help you think about this aspect of your session here are some ways of getting people to participate. Most sessions include some presentation material as well as interactive elements.</p>
+<p>Every session at {{ site.conference.name }} is interactive in some way. To help you think about this aspect of your session here are some ways of getting people to participate. Most sessions include some presentation material as well as interactive elements.</p>
 <p>Some practical details to consider: Sessions are 75 or 150 minutes long. Room capacity is 50, with seating around tables for working in groups, and you’ll be able to present slides.</p>
 <h2>Practice</h2>
 <p>If the aim of your session is to teach people how to do something or to help them understand why it’s important or a good thing to do, get them to try doing it! Plan short exercises to structure the time. Workshops would typically spend a significant amount of time on this.</p>

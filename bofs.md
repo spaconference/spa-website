@@ -6,7 +6,7 @@ layout: page
 <h1>All about BOFs</h1>
 <h2>What is a BOF?</h2>
 <p>"Birds of a Feather" sessions are meetings that you organise at the conference, about topics that you want to discuss.</p>
-<p>The Software Practice Advancement conference continues the great tradition of knowledge sharing between all participants, not just the session leaders. BOF sessions are an important and popular way of doing this.</p>
+<p>The {{ site.conference.name }} conference continues the great tradition of knowledge sharing between all participants, not just the session leaders. BOF sessions are an important and popular way of doing this.</p>
 <h2>How do I set up a BOF?</h2>
 <p>Slots are available for BOFs on each day of the programme. There will be a noticeboard on which to propose BOFs using the cards that will be available in your delegate pack. Additional cards will also be available at the organisers' desk. Interested delegates can sign up by adding their name to the card. The organisers will assign rooms based on the number of interested parties.</p>
 <h2>How do I run a BOF?</h2>

@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
     {% if page.url == "/" %}
-      <title>{{ site.conference.conference_year }} conference</title>
+      <title>{{ site.conference.name_with_year }} conference</title>
     {% else %}
-      <title>{{ page.title }} - {{ site.conference.conference_year }}</title>
+      <title>{{ page.title }} - {{ site.conference.name_with_year }}</title>
     {% endif %}
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -26,11 +26,10 @@
 <header><div>
   <h1>
     <img alt="BCS" src="{{ '/images/bcslogo.png' | relative_url }}" width="65" height="81">
-    <a href="{{ '/' | relative_url }}">{{ site.conference.name_html }}</a>
+    <a href="{{ '/' | relative_url }}">{{ site.conference.name }}</a>
   </h1>
 
   {% if page.url == "/" %}
-    <h2>Software in Practice</h2>
     <p>{{ site.conference.dates }}</p>
   {% endif %}
 
