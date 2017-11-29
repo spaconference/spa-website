@@ -21,7 +21,7 @@ has-nav: lead-a-session
 <p>We particularly encourage speakers who are new to presenting at {{ site.conference.name }}. If you submit early, our feedback process will allow you to tune your proposal before the final review stage.</p>
 
 <h2>The submission and selection process</h2>
-<p>To submit your proposal, complete the <a href="http://spaconference.org/scripts/makeproposal.php">form on the website</a>.</p>
+<p>To submit your proposal, complete the <a href="https://spaconference.org/scripts/makeproposal.php">form on the website</a>.</p>
 <p>Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.</p>
 <p>All sessions submitted by 10pm on 7th January 2018 will receive feedback to help improve the proposal.</p>
 <p>Submissions can be edited until the hard deadline of 4th February 2018.</p>
