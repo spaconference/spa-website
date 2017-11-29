@@ -23,8 +23,8 @@ has-nav: lead-a-session
 <h2>The submission and selection process</h2>
 <p>To submit your proposal, complete the <a href="https://spaconference.org/scripts/makeproposal.php">form on the website</a>.</p>
 <p>Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.</p>
-<p>All sessions submitted by 10pm on 7th January 2018 will receive feedback to help improve the proposal.</p>
-<p>Submissions can be edited until the hard deadline of 4th February 2018.</p>
+<p>All sessions submitted by {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback to help improve the proposal.</p>
+<p>Submissions can be edited until the final deadline of {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_close_date }}.</p>
 <p>The submission and selection process is described in more detail <a href="{{ '/submission-stages.html' | relative_url }}">here</a>.</p>
 
 <h2>What we offer</h2>
@@ -33,10 +33,10 @@ has-nav: lead-a-session
 <p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)</p>
 
 <h2>Important dates</h2>
-<p>The conference: 2nd - 4th July 2018 - British Computer Society, London, UK</p>
-<p>Submissions submitted before 7th January 2018 will receive feedback and may be resubmitted.</p>
-<p>Submissions deadline: 4th February 2018</p>
-<p>Programme announced: 3rd April 2018</p>
+<p>The conference: {{ site.conference.dates }} - British Computer Society, London, UK</p>
+<p>Submissions submitted before {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback and may be resubmitted.</p>
+<p>Submissions deadline: {{ site.conference.cfp_deadline_time }}, {{ site.conference.cfp_close_date }}</p>
+<p>Programme announced: {{ site.conference.programme_announce_date }}</p>
 <p>If you're uncertain about whether to submit your idea, or have other queries, please feel free to get in touch with us at</p>
 <p><em>programme@spaconference.org</em></p>
 <p>Jenny Duckett and Melinda Seckington, Programme Chairs, {{ site.conference.name_with_year }}</p>
