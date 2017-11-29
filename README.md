@@ -1,13 +1,13 @@
 # SPA website [![Travis build status](https://api.travis-ci.org/spaconference/spa-website.svg?branch=master)](https://travis-ci.org/spaconference/spa-website)
 
-Produce the static pages for the website of [SPA: Software in Practice](http://spaconference.org).
+Produce the static pages for the website of [SPA: Software in Practice](https://spaconference.org).
 
 The non-static parts of the site are:
 
  - The programme. This is worked on by the organisers privately and published via a different route when ready.
  - Scripts under MySpa. The PHP functionality of the site is in another (currently private) repo.
 
-In addition, previous conference sites are left in situ once the year changes. There is a back up of them in the [SPA conference organisation](https://github.com/spaconference/previous-spa-sites) or they can be seen from the [current SPA site](http://spaconference.org).
+In addition, previous conference sites are left in situ once the year changes. There is a back up of them in the [SPA conference organisation](https://github.com/spaconference/previous-spa-sites) or they can be seen from the [current SPA site](https://spaconference.org).
 
 # To run locally
 
