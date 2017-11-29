@@ -33,7 +33,7 @@ has-nav: lead-a-session
 <p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)</p>
 
 <h2>Important dates</h2>
-<p>The conference: 2nd - 4th July 2018 - British Computer Society, London, UK</p>
+<p>The conference: {{ site.conference.dates }} - British Computer Society, London, UK</p>
 <p>Submissions submitted before 10pm on Sunday 21st January 2018 will receive feedback and may be resubmitted.</p>
 <p>Submissions deadline: 10pm, Sunday 18th February 2018</p>
 <p>Programme announced: mid-April 2018</p>
