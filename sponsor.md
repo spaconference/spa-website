@@ -1,5 +1,5 @@
 ---
-title: Sponsorship opportunities
+title: Sponsor us
 layout: page
 ---
 <p>{{ site.conference.name }} attracts many participants who are experts in their fields, and who often play a leading role in product and service recommendation and acquisition.</p>

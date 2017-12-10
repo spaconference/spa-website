@@ -16,7 +16,8 @@ exclude:
   # BELOW are pages that are not yet published for this year
   # Comment out from this list when published
   # DO NOT comment back in, we do not want 404s
-  # You can remove them from the menu (`_includes/menu.html`)
+  # You can remove them from the menu by editing
+  # conference.site_navigation, below
   - sponsors.md
   - refunds-and-cancellations.md
   - book-now.md
@@ -38,3 +39,19 @@ conference:
   programme_announce_date: mid-April 2018
   shepherding_dates: 1st April &ndash; conference
   ticket_refund_deadline: 20th June 2018
+  # This controls the site-wide navigation. Items should either be a
+  # dictionary containing url and title, or the filename of the page to
+  # link to (whose title will be the text of the link).
+  # The order here dictates the display order, and items can be removed
+  # by commenting out (or just deleting)
+  site_navigation:
+    - sponsor.md
+    # - sponsors.md
+    - lead-a-session.md
+    - organisers.md
+    - location.md
+    - previous-conferences.md
+    - code-of-conduct.md
+    -
+      url: https://spaconference.org/scripts/myprofile.php
+      title: My Spa

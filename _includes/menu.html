@@ -1,12 +1,40 @@
 <nav>
-  <ul>
-    <li><a href="{{ '/sponsor.html' | relative_url }}"><span>Sponsor us</span></a></li>
-    {% comment %}<li><a href="{{ '/sponsors.html' | relative_url }}"><span>Sponsors</span></a></li>{% endcomment %}
-    <li><a href="{{ '/lead-a-session.html' | relative_url }}"><span>Lead a session</span></a></li>
-    <li><a href="{{ '/organisers.html' | relative_url }}"><span>Organisers</span></a></li>
-    <li><a href="{{ '/location.html' | relative_url }}"><span>Location</span></a></li>
-    <li><a href="{{ '/previous-conferences.html' | relative_url }}"><span>Previous conferences</span></a></li>
-    <li><a href="{{ '/code-of-conduct.html' | relative_url }}"><span>Code of conduct</span></a></li>
-    <li><a href="https://spaconference.org/scripts/myprofile.php"><span>My Spa</span></a></li>
-  </ul>
+<ul>
+  {% for item in site.conference.site_navigation %}
+    {% if item.url and item.title %}
+      {% comment %}
+      If the menu item from the config is a dictionary with a URL and title,
+      just use those
+      {% endcomment %}
+
+      {% assign item_title = item.title %}
+      {% assign item_url = item.url %}
+    {% else %}
+      {% comment %}
+      Otherwise, assume the menu item is the name of a Markdown file in
+      the root of the site, find it, and grab *its* title and URL
+      {% endcomment %}
+
+      {% assign matching_pages = site.pages | where: "name", item %}
+      {% assign item_title = matching_pages[0].title %}
+      {% assign item_url = matching_pages[0].url | relative_url %}
+    {% endif %}
+
+    {% comment %}
+    If the current page's URL matches that of the current menu item, or
+    the page specifies that we should use the navigation from this menu
+    item, mark the menu item selected
+    {% endcomment %}
+    {% assign current_url = page.url | relative_url %}
+    {% if current_url == item_url or page.has-nav == item %}
+      {% assign item_selected = ' class="menuactive"'%}
+    {% else %}
+      {% assign item_selected = ""%}
+    {% endif %}
+
+    <li{{ item_selected }}><a href="{{ item_url }}">
+      <span>{{ item_title }}</span>
+    </a></li>
+  {% endfor %}
+</ul>
 </nav>
