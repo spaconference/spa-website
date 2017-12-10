@@ -222,7 +222,7 @@ header {
     line-height:            20px;
 }
 @supports (background-blend-mode:  multiply) {
-    .home header {
+    header {
         background-blend-mode:  multiply;
         background-image:       url(images/header-bg.jpg);
         background-repeat:      no-repeat;
@@ -244,18 +244,8 @@ header h1 a:active {
 }
 
 header h1 {
-    font-size:              48px;
-    line-height:            60px;
     margin-bottom:          45px;
     padding-left:           96px;
-}
-header h1:after {
-    content:                '';
-    display:                block;
-    clear:                  both;
-}
-header h1 {
-    *zoom:                  1;
 }
 header h1 img {
   float: left;
@@ -273,9 +263,6 @@ header p {
 header h2 {
     margin-bottom:          13px;
     margin-top:             -3px;
-}
-header p {
-    margin-bottom:          15px;
 }
 header .cta {
     border-color:           #fff;
@@ -321,6 +308,7 @@ header nav a:active {
     padding-left: 0;
   }
   header nav {
+    clear: left;
     margin-left: -96px;
   }
 }
