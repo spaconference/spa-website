@@ -45,7 +45,7 @@ Some of the common pages are already present in this repo but excluded from the 
 
 - update the page
 - comment it out in the exclusions section in [_config.yml](_config.yml).
-- if it appears in the menu, comment it in in [_includes/menu.html](_includes/menu.html)
+- if it appears in the menu, comment it in in the `conference.site_navigation` array in [_config.yml](_config.yml)
 
 The [book now](book-now.md) page can be added as a button above the menu; the code to do this is commented out in [_includes/header.html](_includes/header.html).
 
