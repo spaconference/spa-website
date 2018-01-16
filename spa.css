@@ -509,16 +509,17 @@ header nav a:active {
     width:                  100%;
   }
 
-  .programme .track-a {
+  .programme .track-1 {
     width:                  40%;
   }
-  .programme .track-b,
-  .programme .track-c {
+  .programme .track-2,
+  .programme .track-3 {
     width:                  30%;
   }
-  .programme .track-a h3 span,
-  .programme .track-b h3,
-  .programme .track-c h3 {
+
+  .programme .track-2 h3 span,
+  .programme .track-3 h3 span,
+  .programme .track-4 h3 span {
     left:                   -999em;
     position:               absolute;
   }
