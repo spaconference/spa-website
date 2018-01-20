@@ -524,6 +524,16 @@ header nav a:active {
     position:               absolute;
   }
 
+  .programme .four-tracks .track-1 {
+    width:                  34%;
+  }
+
+  .programme .four-tracks .track-2,
+  .programme .four-tracks .track-3,
+  .programme .four-tracks .track-4 {
+    width:                  22%;
+  }
+
   .programme .break {
     text-align:             center;
   }
