@@ -490,7 +490,7 @@ header nav a:active {
 }
 
 @media (min-width: 700px) {
-  .programme h3 {
+  .programme h3 .time {
     float:                  left;
     width:                  4em;
     max-width:              50%;
@@ -517,9 +517,9 @@ header nav a:active {
     width:                  30%;
   }
 
-  .programme .track-2 h3 span,
-  .programme .track-3 h3 span,
-  .programme .track-4 h3 span {
+  .programme .track-2 .time,
+  .programme .track-3 .time,
+  .programme .track-4 .time {
     left:                   -999em;
     position:               absolute;
   }
