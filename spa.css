@@ -490,7 +490,7 @@ header nav a:active {
 }
 
 @media (min-width: 700px) {
-  .programme h3 {
+  .programme h3 .time {
     float:                  left;
     width:                  4em;
     max-width:              50%;
@@ -509,18 +509,29 @@ header nav a:active {
     width:                  100%;
   }
 
-  .programme .track-a {
+  .programme .track-1 {
     width:                  40%;
   }
-  .programme .track-b,
-  .programme .track-c {
+  .programme .track-2,
+  .programme .track-3 {
     width:                  30%;
   }
-  .programme .track-a h3 span,
-  .programme .track-b h3,
-  .programme .track-c h3 {
+
+  .programme .track-2 .time,
+  .programme .track-3 .time,
+  .programme .track-4 .time {
     left:                   -999em;
     position:               absolute;
+  }
+
+  .programme .four-tracks .track-1 {
+    width:                  34%;
+  }
+
+  .programme .four-tracks .track-2,
+  .programme .four-tracks .track-3,
+  .programme .four-tracks .track-4 {
+    width:                  22%;
   }
 
   .programme .break {
