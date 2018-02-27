@@ -33,7 +33,7 @@ bundle exec htmlproofer --assume-extension --url-swap $base_url: ./_site
 
 where `$base_url` is as above, the `baseurl` in [_config.yml](_config.yml).
 
-## To update the site
+# To update the site
 
 Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist. You can merge your own pull requests.
 
