@@ -55,6 +55,7 @@ conference:
     - location.md
     - previous-conferences.md
     - code-of-conduct.md
+    - news.md
     -
       url: https://spaconference.org/scripts/myprofile.php
       title: My Spa
