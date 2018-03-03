@@ -47,9 +47,16 @@ Some of the common pages are already present in this repo but excluded from the 
 - comment it out in the exclusions section in [_config.yml](_config.yml).
 - if it appears in the menu, comment it in in the `conference.site_navigation` array in [_config.yml](_config.yml)
 
-The [book now](book-now.md) page can be added as a button above the menu; the code to do this is commented out in [_includes/header.html](_includes/header.html).
-
 If you want to add a brand new page, you just need to add it, and add it to the menu if appropriate.
+
+## Adding the book now button
+
+There is a styled button that appears above the menu. It is commented out in
+[_includes/header.html](_includes/header.html) when booking is not open.
+
+1. Update the [book now](book-now.md) page with the correct details
+1. Comment out the exclusion for the book now page in [_config.yml](_config.yml)
+1. Uncomment the button in [_includes/header.html](_includes/header.html)
 
 ## How to handle internal navigation
 

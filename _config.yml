@@ -19,8 +19,7 @@ exclude:
   # You can remove them from the menu by editing
   # conference.site_navigation, below
   - sponsors.md
-  - refunds-and-cancellations.md
-  - book-now.md
+  # - book-now.md
   - bofs.md
 
 baseurl: /spa2018
@@ -38,7 +37,6 @@ conference:
   programme_meeting_date: 9th March 2018
   programme_announce_date: mid-April 2018
   shepherding_dates: 1st April &ndash; conference
-  ticket_refund_deadline: 20th June 2018
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to
   # link to (whose title will be the text of the link).
