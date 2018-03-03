@@ -19,7 +19,7 @@ exclude:
   # You can remove them from the menu by editing
   # conference.site_navigation, below
   - sponsors.md
-  - book-now.md
+  # - book-now.md
   - bofs.md
 
 baseurl: /spa2018
