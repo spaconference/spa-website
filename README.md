@@ -67,3 +67,4 @@ The Lead a session pages have internal navigation. Follow the pattern in [_inclu
 When a page has passed its time, DO NOT REMOVE IT, but comment it out in the menu if it appears. For example, the lead a session page will no longer be used after the CFP has closed, but should not become a 404; instead, update it to say the CFP has closed and remove it from the menu.
 
 Please note, the deployment does not purge removed pages (because the programme is generated elsewhere and we do not want a deploy to delete the programme), so if there is a reason to remove a deployed page please contact the [administrator](mailto:website@spaconference.org).
+
