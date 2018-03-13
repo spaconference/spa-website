@@ -7,8 +7,8 @@ has-nav: lead-a-session
 <h1>Information for speakers</h1>
 
 <h2>Shepherding</h2>
-<p>We want to help you make your session the best it can be, both through our feedback and reviews process prior to the submissions deadline and our shepherding process.</p>
-<p>All presenters are assigned a shepherd. A shepherd is someone who has experience presenting, maybe at {{ site.conference.name }}, and ideally in a similar area to the session leaders. They offer advice and support to help people prepare their sessions, and may meet with the session leaders and perhaps help arrange dry-runs prior to the conference. (We do recommend that you have at least one dry-run of your session.)</p>
+<p>Soon after your session is accepted we'll assign you a shepherd who will help you make your session the best it can be. A shepherd is someone who has experience presenting, maybe at {{ site.conference.name }}, and ideally in a similar area. They offer advice and support to help you prepare your session, and may meet with you and help arrange dry-runs prior to the conference.</p>
+<p>We do recommend that you have at least one dry-run of your session, both for timings and to try out the interactive elements of your session.</p>
 
 <h2>Tickets</h2>
 <p>The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, contact the organisers to receive a full refund. See our <a href="{{ '/terms-and-conditions.html' | relative_url }}">terms and conditions</a>.</p>
