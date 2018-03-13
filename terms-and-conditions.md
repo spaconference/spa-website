@@ -9,7 +9,7 @@ layout: page
 <h3>Conditions of inclusion in programme</h3>
 <ol>
 <li>Final acceptance of proposal will be at the complete discretion of the Programme Chair.</li>
-<li>By agreeing to have the session included in the programme the session leader is committing to participate in the shepherding process to ensure high session quality</li>
+<li>By agreeing to have the session included in the programme the session leader is committing to participate in the shepherding process to ensure high session quality.</li>
 </ol>
 
 <p>The session leader grants the conference organisers the right to reproduce and distribute materials submitted for the session for the programme (online and printed). The copyright of the materials remains with the original copyright holder. Where copyright is held by a person other than the session leader, it is the session leader’s responsibility to ensure appropriate permission to use is secured.</p>
