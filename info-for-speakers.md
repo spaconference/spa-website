@@ -19,9 +19,9 @@ has-nav: lead-a-session
 
 <p>We will pay <strong>travel expenses</strong> within these limits for each of the first two named speakers:</p>
 <ul>
-<li>£300 for travel from UK and Ireland</li>
-<li>£400 for travel from the EU</li>
-<li>£1,000 for travel from the rest of the world</li>
+<li>- £300 for travel from UK and Ireland</li>
+<li>- £400 for travel from the EU</li>
+<li>- £1,000 for travel from the rest of the world</li>
 </ul>
 <p>You will need to provide receipts of your travel expenses and will be reimbursed after the conference. Please let us know if the upper limit or being reimbursed after the event will present problems.</p>
 
