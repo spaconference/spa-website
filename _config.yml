@@ -48,7 +48,7 @@ conference:
       #title: Programme
     - sponsor.md
     # - sponsors.md
-    - lead-a-session.md
+    # - lead-a-session.md
     - organisers.md
     - location.md
     - previous-conferences.md
