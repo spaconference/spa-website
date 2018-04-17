@@ -20,7 +20,7 @@ exclude:
   # conference.site_navigation, below
   - sponsors.md
   # - book-now.md
-  - bofs.md
+  # - bofs.md
 
 baseurl: /spa2018
 
