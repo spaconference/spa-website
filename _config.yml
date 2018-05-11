@@ -44,7 +44,7 @@ conference:
   # by commenting out (or just deleting)
   site_navigation:
     -
-      url: baseurl/programme.html
+      url: https://www.spaconference.org/spa2018/programme.html
       title: Programme
     - sponsor.md
     # - sponsors.md
