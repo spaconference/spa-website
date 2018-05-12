@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ex
 
 bundle exec jekyll build
-bundle exec htmlproofer --assume-extension --url-swap $1: ./_site
+bundle exec htmlproofer --assume-extension --url-swap "^${1}": ./_site
