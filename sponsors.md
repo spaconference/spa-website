@@ -23,6 +23,25 @@ and challenging careers for people and, by doing so, has established
 itself as the employer of choice for the best and brightest
 engineers. Find out more by visiting [www.endava.com](http://www.endava.com).
 
+## [![Ministry of Justice][moj-logo]{: width="300" height="300" }][moj-blog]
+
+[MOJ Digital & Technology][moj-blog] design, build and support
+user-centred digital and technology services for the justice system:
+services that make a real difference to our staff, members of the
+public and their families who use them. Millions of people every year
+interact with our services, and Digital & Technology play an important
+role in improving access to justice and making that experience much
+easier and less distressing.
+
+We are using digital, data and technology to build capability, work
+smarter and more efficiently. We want to create a digitally enabled
+end-to-end justice system which can adapt and respond to changing
+needs. We also make sure our 74,000 staff have the tools and technology
+they need to keep tribunals, courts and prisons operating effectively.
+
+[moj-blog]: https://mojdigital.blog.gov.uk
+[moj-logo]: {{ '/images/2018/sponsors/moj-logo-600x600.png' | relative_url }}
+
 <img style="float:left;" src="{{ '/images/Zuehlke_50Year_Logo_rgb.jpg' | relative_url }}" alt="Zuhlke Logo" width="300"/>
 
 Zuhlke Engineering provides bespoke agile software development services, locally. Clients tell us that they use Zuhlke when they are faced with tough technical problems, when time to market is critical, or when a project simply cannot be allowed to fail.
