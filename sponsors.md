@@ -7,7 +7,7 @@ layout: page
 
 <h1>General Sponsors</h1>
 
-<img style="float:left;" src="{{ '/images/Endava_Logo.jpg' | relative_url }}" alt="Endava Logo" width="300" />
+## <img src="{{ '/images/Endava_Logo.jpg' | relative_url }}" alt="Endava Logo" width="300" />
 
 Endava is a privately-owned, global technology company, with over
 17 years of experience of working with some of the world’s leading
@@ -42,7 +42,8 @@ they need to keep tribunals, courts and prisons operating effectively.
 [moj-blog]: https://mojdigital.blog.gov.uk
 [moj-logo]: {{ '/images/2018/sponsors/moj-logo-600x600.png' | relative_url }}
 
-<img style="float:left;" src="{{ '/images/Zuehlke_50Year_Logo_rgb.jpg' | relative_url }}" alt="Zuhlke Logo" width="300"/>
+## <img  src="{{ '/images/Zuehlke_50Year_Logo_rgb.jpg' | relative_url }}" alt="Zuhlke Logo" width="300"/>
+
 
 Zuhlke Engineering provides bespoke agile software development services, locally. Clients tell us that they use Zuhlke when they are faced with tough technical problems, when time to market is critical, or when a project simply cannot be allowed to fail.
 As part of the Zuhlke Technology Group, Zuhlke Engineering can draw on the experience gathered from the more than 8,000 projects delivered by Group companies since 1968. Today the Group companies have teams serving local customers in UK, Austria, Germany, Switzerland and Serbia.
