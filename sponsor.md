@@ -2,12 +2,14 @@
 title: Sponsor us
 layout: page
 ---
+<p><em>All sponsorships have now been taken up for SPA Software in Practice 2018.</em></p>
+
 <p>{{ site.conference.name }} attracts many participants who are experts in their fields, and who often play a leading role in product and service recommendation and acquisition.</p>
 <p>Becoming a sponsor of {{ site.conference.name }} provides the highest possible profile at the event.</p>
 
 <h2>Sponsorship Benefits</h2>
 
-<h3>General Sponsorship - £1250 + 20% VAT (Three Available)</h3>
+~~<h3>General Sponsorship - £1250 + 20% VAT (Three Available)</h3>~~
 <p>Be a core supporter of the {{ site.conference.name }} conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
 <ul>
    <li>Large logo on the conference website</li>
@@ -20,7 +22,7 @@ layout: page
 </ul>
 
 
-<h3>Dinner Package - £1000 + 20% VAT (Two Available)</h3>
+~~<h3>Dinner Package - £1000 + 20% VAT (Two Available)</h3>~~
 <p>Sponsor one of the conference dinners and gain focused attention from the conference's attendees in a friendly an relaxed environment, as they are gathered for a sociable evening meal.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
@@ -29,7 +31,7 @@ layout: page
    <li>Logo on the conference website.</li>
 </ul>
 
-<h3>Lunch Package - £750 + 20% VAT (Three Available)</h3>
+~~<h3>Lunch Package - £750 + 20% VAT (Three Available)</h3>~~
 <p>Sponsor one of the conference lunches and gain attention from attendees as they are gathered together for one of {{ site.conference.name }}'s buffet lunches, where attendees mingle and share their experiences of the conference that morning.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>

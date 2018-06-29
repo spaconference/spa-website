@@ -18,7 +18,7 @@ exclude:
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  - sponsors.md
+  # - sponsors.md
   # - book-now.md
   # - bofs.md
 
@@ -46,8 +46,8 @@ conference:
     -
       url: https://www.spaconference.org/spa2018/programme.html
       title: Programme
-    - sponsor.md
-    # - sponsors.md
+    # - sponsor.md
+    - sponsors.md
     # - lead-a-session.md
     - organisers.md
     - location.md
