@@ -49,10 +49,8 @@ Zuhlke Engineering provides bespoke agile software development services, locally
 As part of the Zuhlke Technology Group, Zuhlke Engineering can draw on the experience gathered from the more than 8,000 projects delivered by Group companies since 1968. Today the Group companies have teams serving local customers in UK, Austria, Germany, Switzerland and Serbia.
 
 
-<h1>Lunch sponsors</h1>
+<h1>Lunch sponsor</h1>
 
-<a href="https://www.contino.io" title="Contino">{image src="Contino_Logo_DarkGrey_Large_Web.png" width=600 height=218}
-</a>
-<p>Contino is an industry leading transformational technical consultancy. We partner with the world's leading brands to accelerate innovation through the successful adoption of Enterprise DevOps and Cloud-Native approaches.</p>
+## ![Contino]( {{ '/images/Contino_Logo_DarkGrey_Large_Web.png' | relative_url }}){: width="300"}
 
-<br/>
+Contino is an industry leading transformational tech-consultancy. We partner with the world's leading brands to accelerate innovation through the successful adoption of Enterprise DevOps and Cloud Computing.
