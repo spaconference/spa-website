@@ -22,7 +22,7 @@ exclude:
   # - book-now.md
   # - bofs.md
 
-baseurl: /spa2018
+baseurl: /spa2019
 
 conference:
   current_year: 2018
@@ -44,7 +44,7 @@ conference:
   # by commenting out (or just deleting)
   site_navigation:
     -
-      url: https://www.spaconference.org/spa2018/programme.html
+      url: https://www.spaconference.org/spa2019/programme.html
       title: Programme
     # - sponsor.md
     - sponsors.md
