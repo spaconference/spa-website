@@ -74,3 +74,6 @@ When a page has passed its time, DO NOT REMOVE IT, but comment it out in the men
 
 Please note, the deployment does not purge removed pages (because the programme is generated elsewhere and we do not want a deploy to delete the programme), so if there is a reason to remove a deployed page please contact the [administrator](mailto:website@spaconference.org).
 
+## On change of year
+
+Some changes need to be made after the conference to set up this project so that it publishes next year's site to next year's location. See the [SPA handbook](https://github.com/spaconference/spa-handbook/blob/master/website/change-of-year.md) for more details.
