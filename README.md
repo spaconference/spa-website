@@ -28,7 +28,7 @@ The output of this command will tell you where the site is running locally. It w
 To run the tests locally:
 
 ```
-bundle exec htmlproofer --assume-extension --url-swap $base_url: ./_site
+bundle exec htmlproofer --assume-extension --url-swap ^/$base_url: ./_site
 ```
 
 where `$base_url` is as above, the `baseurl` in [_config.yml](_config.yml).
