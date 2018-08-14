@@ -18,9 +18,14 @@ exclude:
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  # - sponsors.md
-  # - book-now.md
-  # - bofs.md
+  - lead-a-session.md
+  - info-for-speakers.md
+  - interactivity.md
+  - submission-stages.md
+  - sponsor.md
+  - sponsors.md
+  - book-now.md
+  - bofs.md
   - news.md
 
 baseurl: /spa2019
@@ -43,14 +48,14 @@ conference:
   # The order here dictates the display order, and items can be removed
   # by commenting out (or just deleting)
   site_navigation:
-    -
-      url: https://www.spaconference.org/spa2019/programme.html
-      title: Programme
+    # -
+    #  url: https://www.spaconference.org/spa2019/programme.html
+    #  title: Programme
     # - sponsor.md
-    - sponsors.md
+    # - sponsors.md
     # - lead-a-session.md
-    - organisers.md
     - location.md
+    - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
     # - news.md
