@@ -23,15 +23,21 @@ The `--watch` means that you will not have to restart the server to see changes 
 
 The output of this command will tell you where the site is running locally. It will be something like `localhost:4000/$base_url/` (note the closing slash).
 
-`$base_url` is whatever is set as the `baseurl` in [_config.yml](_config.yml).
+`$base_url` is whatever is set as the `baseurl` in [_config.yml](_config.yml), e.g. `localhost:4000/spa2019`.
 
 To run the tests locally:
 
 ```
-bundle exec htmlproofer --assume-extension --url-swap $base_url: ./_site
+bundle exec htmlproofer --assume-extension --url-swap ^/$base_url: ./_site
 ```
 
 where `$base_url` is as above, the `baseurl` in [_config.yml](_config.yml).
+
+e.g.
+
+```
+bundle exec htmlproofer --assume-extension --url-swap ^/spa2019: ./_site
+```
 
 # To update the site
 
