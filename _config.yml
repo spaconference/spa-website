@@ -26,18 +26,17 @@ exclude:
 baseurl: /spa2019
 
 conference:
-  current_year: 2018
+  current_year: 2019
   name: SPA Software in Practice
-  name_with_year: SPA Software in Practice 2018
-  dates: 2nd &ndash; 4th July 2018
-  cfp_open_date: 30th November 2017
-  cfp_deadline_time: 10pm
-  cfp_early_feedback_deadline: 21st January 2018
-  cfp_close_date: 18th February 2018
-  reviewing_deadline: 7th March 2018
-  programme_meeting_date: 9th March 2018
-  programme_announce_date: mid-April 2018
-  shepherding_dates: 1st April &ndash; conference
+  name_with_year: SPA Software in Practice 2019
+  dates: 24th &ndash; 26th June 2019
+  cfp_deadline_time: TBC
+  cfp_early_feedback_deadline: TBC
+  cfp_close_date: TBC
+  reviewing_deadline: TBC
+  programme_meeting_date: TBC
+  programme_announce_date: TBC
+  shepherding_dates: TBC
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to
   # link to (whose title will be the text of the link).
