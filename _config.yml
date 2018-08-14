@@ -18,42 +18,47 @@ exclude:
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  # - sponsors.md
-  # - book-now.md
-  # - bofs.md
+  - lead-a-session.md
+  - info-for-speakers.md
+  - interactivity.md
+  - submission-stages.md
+  - sponsor.md
+  - sponsors.md
+  - book-now.md
+  - bofs.md
+  - news.md
 
-baseurl: /spa2018
+baseurl: /spa2019
 
 conference:
-  current_year: 2018
+  current_year: 2019
   name: SPA Software in Practice
-  name_with_year: SPA Software in Practice 2018
-  dates: 2nd &ndash; 4th July 2018
-  cfp_open_date: 30th November 2017
-  cfp_deadline_time: 10pm
-  cfp_early_feedback_deadline: 21st January 2018
-  cfp_close_date: 18th February 2018
-  reviewing_deadline: 7th March 2018
-  programme_meeting_date: 9th March 2018
-  programme_announce_date: mid-April 2018
-  shepherding_dates: 1st April &ndash; conference
+  name_with_year: SPA Software in Practice 2019
+  dates: 24th &ndash; 26th June 2019
+  cfp_deadline_time: TBC
+  cfp_early_feedback_deadline: TBC
+  cfp_close_date: TBC
+  reviewing_deadline: TBC
+  programme_meeting_date: TBC
+  programme_announce_date: TBC
+  shepherding_dates: TBC
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to
   # link to (whose title will be the text of the link).
   # The order here dictates the display order, and items can be removed
   # by commenting out (or just deleting)
   site_navigation:
-    -
-      url: https://www.spaconference.org/spa2018/programme.html
-      title: Programme
+    # -
+    #  url: https://www.spaconference.org/spa2019/programme.html
+    #  title: Programme
     # - sponsor.md
-    - sponsors.md
+    # - sponsors.md
     # - lead-a-session.md
-    - organisers.md
     - location.md
+    - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
-    - news.md
+    # - news.md
     -
       url: https://spaconference.org/scripts/myprofile.php
       title: My Spa
