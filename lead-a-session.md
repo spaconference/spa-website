@@ -7,7 +7,7 @@ layout: page
 <!-- <em>Submissions are now closed for SPA Software in Practice 2018.</em> -->
 
 <h1>Lead a session</h1>
-<p>The CfP for {{ site.conference.name }} will open around the 15th of November 2018. Please email <a href="mailto:conference@spaconference.org?subject=NotifySPA2019">conference@spaconference.org</a> with if <i>NotifySPA2019</i> in the subject if you want to be notified.
+<p>The CfP for {{ site.conference.name }} will open around the 15th of November 2018. If you want to be notified when the CfP is out, please register at <a href="https://spaconference.org/scripts/myprofile.php">My SPA</a> and select the option to receive communications by us.
 </p>
 <!-- <p>{{ site.conference.name }} is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
 <p>All the sessions are interactive - everyone can be an active participant and learn by doing.</p> -->
