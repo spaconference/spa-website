@@ -7,7 +7,7 @@ layout: page
 
 <h2>Sponsorship Benefits</h2>
 
-<h3>General Sponsorship - TBC (Three Available)</h3>
+<h3>General Sponsorship - TBC</h3>
 <p>Be a core supporter of the {{ site.conference.name }} conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
 <ul>
    <li>Large logo on the conference website</li>
@@ -15,7 +15,7 @@ layout: page
    <li>Thanks and acknowledgement on conference social media channels</li>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
    <li>Opportunity to give a 10 minute "lightning talk" at a plenary session</li>
-   <li>Opportunity to display a banner or have a small stand in the shared area throughout the conference (Two Available)</li>
+   <li>Opportunity to distribute promotional material at the conference</li>
    <li>Your marketing and other promotional materials inserted into participant packs</li>
 </ul>
 

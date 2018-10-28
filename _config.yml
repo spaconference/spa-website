@@ -18,11 +18,11 @@ exclude:
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  - lead-a-session.md
+  # - lead-a-session.md
   - info-for-speakers.md
   - interactivity.md
   - submission-stages.md
-  - sponsor.md
+  # - sponsor.md
   - sponsors.md
   - book-now.md
   - bofs.md
@@ -51,14 +51,13 @@ conference:
     # -
     #  url: https://www.spaconference.org/spa2019/programme.html
     #  title: Programme
-    # - sponsor.md
+    - sponsor.md
     # - sponsors.md
-    # - lead-a-session.md
+    - lead-a-session.md
     - location.md
     - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
     # - news.md
-    -
-      url: https://spaconference.org/scripts/myprofile.php
-      title: My Spa
+    - url: https://spaconference.org/scripts/myprofile.php
+      title: My SPA
