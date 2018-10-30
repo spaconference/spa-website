@@ -1,16 +1,18 @@
 ---
 title: Lead a session
 layout: page
-has-nav: lead-a-session
+# has-nav: lead-a-session
 ---
 
-<em>Submissions are now closed for SPA Software in Practice 2018.</em>
+<!-- <em>Submissions are now closed for SPA Software in Practice 2018.</em> -->
 
 <h1>Lead a session</h1>
-<p>{{ site.conference.name }} is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
-<p>All the sessions are interactive - everyone can be an active participant and learn by doing.</p>
+<p>The CfP for {{ site.conference.name }} will open around the 15th of November 2018. If you want to be notified when the CfP is out, please register at <a href="https://spaconference.org/scripts/myprofile.php">My SPA</a> and select the option to receive communications by us.
+</p>
+<!-- <p>{{ site.conference.name }} is about practitioners from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together.</p>
+<p>All the sessions are interactive - everyone can be an active participant and learn by doing.</p> -->
 
-<h2>What are we looking for?</h2>
+<!-- <h2>What are we looking for?</h2>
 <p>We welcome a wide variety of perspectives on all aspects of software development - new ideas, old ideas rediscovered, creativity, the unexpected, reflection and fun. In the past we’ve had sessions on programming languages, tools, techniques, design, architecture, testing, coaching, team dynamics, pairing and organising a team’s work.</p>
 <p>We’ve also had some great sessions on topics you might not expect at a software conference, like sketching, speed reading, and education. We really like sessions like this too - they give us more opportunities to think about and try a wide range of things.</p>
 <p>At {{ site.conference.name }} you can experiment and try something new, or bring a session you’ve perfected elsewhere - we value both. All submissions get feedback to help them improve, and accepted sessions will be assigned a shepherd to help with preparation so we’ll support you along the way.</p>
@@ -41,4 +43,4 @@ has-nav: lead-a-session
 <p>Programme announced: {{ site.conference.programme_announce_date }}</p>
 <p>If you're uncertain about whether to submit your idea, or have other queries, please feel free to get in touch with us at</p>
 <p><em>programme@spaconference.org</em></p>
-<p>Jenny Duckett and Melinda Seckington, Programme Chairs, {{ site.conference.name_with_year }}</p>
+<p>Jason Ayers, Programme Chair, {{ site.conference.name_with_year }}</p> -->

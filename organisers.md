@@ -12,9 +12,8 @@ Gen Ashley <em>Women Who Code</em><br />
 Giovanni Asproni <em>Zuhlke</em><br />
 <a href="mailto:conference@spaconference.org">conference@spaconference.org</a>
 
-<h3>Programme chairs</h3>
-Jenny Duckett <em>Ministry of Justice</em><br />
-Melinda Seckington <em>FutureLearn</em><br />
+<h3>Programme chair</h3>
+Jason Ayers <em>Cincom Systems</em><br />
 <a href="mailto:programme@spaconference.org">programme@spaconference.org</a>
 
 <h3>Marketing chair</h3>
