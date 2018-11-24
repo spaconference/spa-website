@@ -19,9 +19,9 @@ exclude:
   # You can remove them from the menu by editing
   # conference.site_navigation, below
   # - lead-a-session.md
-  - info-for-speakers.md
-  - interactivity.md
-  - submission-stages.md
+  # - info-for-speakers.md
+  # - interactivity.md
+  # - submission-stages.md
   # - sponsor.md
   - sponsors.md
   - book-now.md
@@ -35,13 +35,13 @@ conference:
   name: SPA Software in Practice
   name_with_year: SPA Software in Practice 2019
   dates: 24th &ndash; 26th June 2019
-  cfp_deadline_time: TBC
-  cfp_early_feedback_deadline: TBC
-  cfp_close_date: TBC
-  reviewing_deadline: TBC
-  programme_meeting_date: TBC
-  programme_announce_date: TBC
-  shepherding_dates: TBC
+  cfp_deadline_time: 5 PM
+  cfp_early_feedback_deadline: 21st January 2019
+  cfp_close_date: 18th February 2019
+  reviewing_deadline: 7th March 2019
+  programme_meeting_date: 9th March 2019
+  programme_announce_date: 15th March 2019
+  shepherding_dates: 1st April &ndash; 23th June 2019
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to
   # link to (whose title will be the text of the link).
