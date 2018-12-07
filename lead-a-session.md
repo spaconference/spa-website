@@ -11,8 +11,8 @@ layout: page
 	</div>
   	<div style="float: right; width: 30%;">      	
   		<h2 style="color: green;"><a href="https://spaconference.org/scripts/makeproposal.php">Submit a proposal for a session</a></h2>
-			<h3>Submission deadline: 2nd February 2019</h3>
-			<h3>Conference dates: 24th - 26th June 2019</h3>
+			<h3>Submission deadline: {{ site.conference.cfp_close_date }} </h3>
+			<h3>Conference dates: {{ site.conference.dates }}</h3>
 			<h3>Where: BCS London Office - Southampton Street near Covent Garden</h3>
 			<h3>Length of sessions: 75 minutes, or 150 minutes with a break in the middle</h3>
 	</div>
@@ -22,7 +22,7 @@ layout: page
 <p>We welcome a wide variety of perspectives on all aspects of software development - new ideas, old ideas rediscovered, creativity, the unexpected, reflection and fun. In the past we’ve had sessions on programming languages, tools, techniques, design, architecture, testing, coaching, team dynamics, pairing and organising a team’s work.</p>
 <p>We’ve also had some great sessions on topics you might not expect at a software conference, like sketching, speed reading, and education. We really like sessions like this too - they give us more opportunities to think about and try out a wide range of things.</p>
 <p>At {{ site.conference.name }} you can experiment and try something new, or bring a session you’ve perfected elsewhere - we value both. All submissions get feedback to help them improve, and accepted sessions will be assigned a shepherd to help with preparation so we’ll support you along the way.</p>
-<p>You can get an idea of the sort of sessions that have run previously from the <a href="{{ '/prev-conf-programmes.html' | relative_url }}">programmes for previous years' conferences</a>.</p>
+<p>You can get an idea of the sort of sessions that have run previously from the <a href="{{ '/prev-conf-programmes.html' | relative_url }}">programmes for previous years' conferences</a>. We have selected a <a href="{{ '/successful-sessions.html' | relative_url }}">sample of those sessions</a> to give you some indication of the range of topics and how the application form has been completed by others.</p>
 <p>But don't be constrained by any of these ideas; maybe you've got something totally new to share. We'd like to hear it.</p>
 <p>We’d love to see in your proposal how you’ll make your session interactive and get participants involved. You can get some ideas of ways to do that from our page of suggestions for <a href="{{ '/interactivity.html' | relative_url }}">interactivity</a> or propose anything else you like.</p>
 
