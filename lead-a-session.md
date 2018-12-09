@@ -1,23 +1,14 @@
 ---
 title: Lead a session
 layout: page
-# has-nav: lead-a-session
+has-nav: lead-a-session
 ---
-
 <div>
-  	<div class="inner" style="float: left; width: 70%;"> 		
-  		<p>{{ site.conference.name }} is about practitioners sharing experiences from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together. It is about building a community of attendees that can learn and share new, interesting and thought provoking experiences from the broadest spectrum of their profession.  </p>
-		<p>All the sessions are interactive. We believe in the power of physically doing; be it through practice, thoughtful evaluation, discussion or games. In this way everyone can be an active participant and learn by doing. It helps give {{ site.conference.name }} it's particular vibe.</p>
-	</div>
-  	<div style="float: right; width: 30%;">      	
-  		<h2 style="color: green;"><a href="https://spaconference.org/scripts/makeproposal.php">Submit a proposal for a session</a></h2>
-			<h3>Submission deadline: {{ site.conference.cfp_close_date }} </h3>
-			<h3>Conference dates: {{ site.conference.dates }}</h3>
-			<h3>Where: BCS London Office - Southampton Street near Covent Garden</h3>
-			<h3>Length of sessions: 75 minutes, or 150 minutes with a break in the middle</h3>
-	</div>
-</div>
-<div>
+<h1 style="color: green;"><a href="https://spaconference.org/scripts/makeproposal.php" class="cta">Submit a proposal for a session</a></h1>
+<h3>Submission deadline: {{ site.conference.cfp_close_date }} </h3>
+<p>{{ site.conference.name }} is about practitioners sharing experiences from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together. It is about building a community of attendees that can learn and share new, interesting and thought provoking experiences from the broadest spectrum of their profession.  </p>
+	<h3>Sessions are 75 minutes, or 150 minutes with a break in the middle</h3>
+<p>All the sessions are interactive. We believe in the power of physically doing; be it through practice, thoughtful evaluation, discussion or games. In this way everyone can be an active participant and learn by doing. It helps give {{ site.conference.name }} it's particular vibe.</p>
 <h2>What are we looking for?</h2>
 <p>We welcome a wide variety of perspectives on all aspects of software development - new ideas, old ideas rediscovered, creativity, the unexpected, reflection and fun. In the past we’ve had sessions on programming languages, tools, techniques, design, architecture, testing, coaching, team dynamics, pairing and organising a team’s work.</p>
 <p>We’ve also had some great sessions on topics you might not expect at a software conference, like sketching, speed reading, and education. We really like sessions like this too - they give us more opportunities to think about and try out a wide range of things.</p>
