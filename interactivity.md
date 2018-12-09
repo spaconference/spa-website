@@ -1,5 +1,5 @@
 ---
-title: How can I make my session interactive?
+title: Making my session interactive
 layout: page
 has-nav: lead-a-session
 ---
