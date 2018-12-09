@@ -28,6 +28,15 @@ has-nav: lead-a-session
  <li><a href="https://spaconference.org/spa2017/sessions/session700.html"><span>Visualising Connascence to Drive Refactoring</span></a></li>
 </ul>
 
+<p>Here are the programmes for the past four conferences if you want to get a broader feel.</p>
+
+<ul>
+  <li><a href="https://spaconference.org/spa2018/programme.html"><span>SPA Software in Practice 2018 Programme</span></a></li>
+  <li><a href="https://spaconference.org/spa2017/programme.html"><span>SPA2017 Programme</span></a></li>
+  <li><a href="https://spaconference.org/spa2016/programme.html"><span>SPA2016 Programme</span></a></li>
+  <li><a href="https://spaconference.org/spa2015/programme.html"><span>SPA2015 Programme</span></a></li>
+</ul>
+
 
 
 
