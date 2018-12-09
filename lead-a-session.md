@@ -4,7 +4,6 @@ layout: page
 has-nav: lead-a-session
 ---
 <div>
-<h1 style="color: green;"><a href="https://spaconference.org/scripts/makeproposal.php" class="cta">Submit a proposal for a session</a></h1>
 <h3>Submission deadline: {{ site.conference.cfp_close_date }} </h3>
 <p>{{ site.conference.name }} is about practitioners sharing experiences from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together. It is about building a community of attendees that can learn and share new, interesting and thought provoking experiences from the broadest spectrum of their profession.  </p>
 	<h3>Sessions are 75 minutes, or 150 minutes with a break in the middle</h3>
