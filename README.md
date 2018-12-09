@@ -52,6 +52,7 @@ Some of the common pages are already present in this repo but excluded from the 
 - update the page
 - comment it out in the exclusions section in [_config.yml](_config.yml).
 - if it appears in the menu, comment it in in the `conference.site_navigation` array in [_config.yml](_config.yml)
+it might also be excluded from displaying under the exclude: section of [_config.yml](_config.yml). This is used to control pages that should not be visible at the current stage of the conference preperation process but were needed earlier or later. Please try to avoid renaming pages.
 
 If you want to add a brand new page, you just need to add it, and add it to the menu if appropriate.
 

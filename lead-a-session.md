@@ -35,10 +35,10 @@ layout: page
 <p>Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.</p>
 <p>All sessions submitted by {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback to help improve the proposal.</p>
 <p>Submissions can be edited until the final deadline of {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_close_date }}.</p>
-<p>For more detail take a look at  <a href="{{ '/submission-stages1.html' | relative_url }}">the submission and selection process</a>.</p>
+<p>For more detail take a look at  <a href="{{ '/submission-stages.html' | relative_url }}">the submission and selection process</a>.</p>
 
 <h2>What we offer</h2>
-<p>We will help you make your session the best it can be, both through our feedback process prior to the submissions deadline and our shepherding process if your session is accepted. More detail on these stages is provided in <a href="{{ '/submission-stages1.html' | relative_url }}">the submission and selection process</a>.</p>
+<p>We will help you make your session the best it can be, both through our feedback process prior to the submissions deadline and our shepherding process if your session is accepted. More detail on these stages is provided in <a href="{{ '/submission-stages.html' | relative_url }}">the submission and selection process</a>.</p>
 <p>The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, you will receive a full refund. We have set out <a href="{{ '/terms-and-conditions.html' | relative_url }}">the terms and conditions</a> for our speakers; please be sure to read before applying.</p>
 <p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)</p>
 

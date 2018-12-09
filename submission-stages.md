@@ -1,9 +1,8 @@
 ---
-title: Lead a session
+title: Submission stages
 layout: page
 has-nav: lead-a-session
 ---
-
 <h1>Submission stages</h1>
 <p>We have several stages after submission of proposals to help make the conference the best it can be.</p>
 <h2 id="feedback">Feedback</h2>
@@ -45,4 +44,4 @@ has-nav: lead-a-session
 </ol></ol>
 <p>If you have any questions or would like to be involved, please contact us:</p>
 <p><em>programme@spaconference.org</em></p>
-<p>Jenny Duckett and Melinda Seckington, Programme Chairs, {{ site.conference.name_with_year }}</p>
+<p>Jason Ayers, the Programme Chair, {{ site.conference.name_with_year }}</p>
