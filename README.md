@@ -41,7 +41,7 @@ bundle exec htmlproofer --assume-extension --url-swap ^/spa2019: ./_site
 
 # To update the site
 
-Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist. You can merge your own pull requests.
+Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist. You can merge your own pull requests - please ensure all html proofer tests run green.
 
 Merging to master will deploy your changes to the live site.
 
@@ -60,14 +60,18 @@ If you want to add a brand new page, you just need to add it, and add it to the 
 
 There is a styled button that appears above the menu. It is commented out in
 [_includes/header.html](_includes/header.html) when booking is not open.
+There is also a submit a session button in the same place that needs to available when the CfP is open. 
 
 1. Update the [book now](book-now.md) page with the correct details
 1. Comment out the exclusion for the book now page in [_config.yml](_config.yml)
 1. Uncomment the button in [_includes/header.html](_includes/header.html)
 
 ## How to handle internal navigation
+The grey bar is a section header. It should always have the section name in it. For single page sections it will also be the header/title for the page as there is no point having the title twice. For any section that has multiple pages then the grey bar keeps the section title on every page and an H1 heading in and at the top of the text is the page header/title.
 
-The Lead a session pages have internal navigation. Follow the pattern in [_includes/lead-a-session-nav.html](_includes/lead-a-session-nav.html) to add or remove pages from the internal navigation. Make sure new pages have `has-nav: lead-a-session` in the yaml front matter. (See for example [lead-a-session.md](/lead-a-session.md).)
+Any section that has multiple pages needs an internal navigation on the left hand side. For example the 'Lead a session' pages have internal navigation. To add a new page to a section with multiple pages you must do two things:
+- Follow the pattern in [_includes/lead-a-session-nav.html](_includes/lead-a-session-nav.html) to add or remove pages from the internal navigation. 
+- Make sure new pages have `has-nav: lead-a-session` in the yaml front matter. See for example [lead-a-session.md](/lead-a-session.md).
 
 ## If a page is no longer needed
 
