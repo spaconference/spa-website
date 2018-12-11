@@ -29,7 +29,7 @@ has-nav: lead-a-session
 		<p>The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, you will receive a full refund. We have set out <a href="{{ '/terms-and-conditions.html' | relative_url }}">the terms and conditions</a> for our speakers; please be sure to read before applying.</p>
 		<p>The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)</p>
 	<h2>Important dates</h2>
-		<p>The Call for Papers for {{ site.conference.name }} opened on the 24th November 2018. </p>
+		<p>The Call for Papers for {{ site.conference.name }} opened on the 12th December 2018. </p>
 		<p>The conference: {{ site.conference.dates }} - British Computer Society, London, UK</p>
 		<p>Submissions submitted before {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback and may be resubmitted.</p>
 		<p>Submissions deadline: {{ site.conference.cfp_deadline_time }}, {{ site.conference.cfp_close_date }}</p>
