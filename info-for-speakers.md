@@ -1,8 +1,9 @@
 ---
-title: Information for speakers
+title: Lead a session 
 layout: page
 has-nav: lead-a-session
 ---
+<h1>Information for speakers</h1>
 <h2 id="shepherding">Shepherding</h2>
 <p>Soon after your session is accepted we'll assign you a shepherd who will help you make your session the best it can be. A shepherd is someone who has experience presenting, maybe at {{ site.conference.name }}, and ideally in a similar area. They offer advice and support to help you prepare your session, and may meet with you and help arrange dry-runs prior to the conference.</p>
 <p>We do recommend that you have at least one dry-run of your session, both for timings and to try out the interactive elements of your session.</p>

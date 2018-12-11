@@ -1,9 +1,10 @@
 ---
-title: Submission stages
+title: Lead a session
 layout: page
 has-nav: lead-a-session
 ---
 <div>
+	<h1>Submission stages</h1>
 		<p>We have several stages after submission of proposals to help make the conference the best it can be.</p>
 	<h2 id="feedback">Feedback</h2>
 		<p>The feedback stage is between {{ site.conference.cfp_early_feedback_deadline }} and {{ site.conference.cfp_close_date }}.</p>

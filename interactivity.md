@@ -1,8 +1,9 @@
 ---
-title: Making my session interactive
+title: Lead a session
 layout: page
 has-nav: lead-a-session
 ---
+<h1>Making my session interactive</h1>
 <p>Every session at {{ site.conference.name }} is interactive in some way. To help you think about this aspect of your session here are some ways of getting people to participate. </p>
 <p>Some practical details to consider: 
 <ul>

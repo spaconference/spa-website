@@ -1,9 +1,10 @@
 ---
-title: Sample of recent sessions
+title: Lead a session 
 layout: page
 has-nav: lead-a-session
 ---
 <div>
+	<h1>Sample of recent sessions</h1>
 	<p>Here are a sample of successful sessions that respresent something of the eclectic mix of past conference sessions from the last 4 years.</p>
 	<p>Hopefully these past contributions give you a flavour of the kind of we are looking for in this year's sessions. They are the actual submissions made by the session leaders when applying so hopefully they will also be helpful in guiding your own submissions in terms of the level of information needed.</p>
 	<ul>
