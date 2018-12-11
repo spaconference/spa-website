@@ -7,7 +7,7 @@ layout: page
 
 <h2>Sponsorship Benefits</h2>
 
-<h3>General Sponsorship - TBC</h3>
+<h3>General Sponsorship - £1,450 + 20% VAT (Three Available)</h3>
 <p>Be a core supporter of the {{ site.conference.name }} conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
 <ul>
    <li>Large logo on the conference website</li>
@@ -19,8 +19,7 @@ layout: page
    <li>Your marketing and other promotional materials inserted into participant packs</li>
 </ul>
 
-
-<h3>Dinner Package - TBC (Two Available)</h3>
+<h3>Dinner Package  - £1,250 + 20% VAT (Two Available)</h3>
 <p>Sponsor one of the conference dinners and gain focused attention from the conference's attendees in a friendly an relaxed environment, as they are gathered for a sociable evening meal.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
@@ -29,7 +28,7 @@ layout: page
    <li>Logo on the conference website.</li>
 </ul>
 
-<h3>Lunch Package - TBC (Three Available)</h3>
+<h3>Lunch Package -  £1,000 + 20% VAT  (Three Available)</h3>
 <p>Sponsor one of the conference lunches and gain attention from attendees as they are gathered together for one of {{ site.conference.name }}'s buffet lunches, where attendees mingle and share their experiences of the conference that morning.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
