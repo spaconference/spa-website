@@ -17,7 +17,7 @@ layout: page
 <section><div class="inner">
 <h1>Organisers</h1>
 <p>The conference is being chaired by Gen Ashley and Giovanni Asproni.</p>
-<p>The programme is being organised by Jenny Duckett and Melinda Seckington.</p>
+<p>The programme is being organised by Jason Ayers.</p>
 <p>Please <a href="{{ '/organisers.html' | relative_url }}">contact us</a> if you have any questions.</p>
 <p></p>
 </div></section>

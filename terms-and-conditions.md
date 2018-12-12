@@ -36,4 +36,4 @@ layout: page
 <p>To find out what information is held about you or request deletion of all your information, please contact <a href="mailto:admin@spaconference.org">admin@spaconference.org</a>.</p>
 
 <h2>Other</h2>
-<p>The SPA Specialist Group is not responsible for the views or opinions expressed by individual session leaders, contributors to the SPA wiki, or any individuals who are not members of the executive committee.</p>
+<p>The SPA Specialist Group is not responsible for the views or opinions expressed by individual session leaders, contributors to the {{ site.conference.name }} wiki or the {{ site.conference.name }} Slack Workspace, or any individuals who are not members of the executive committee.</p>
