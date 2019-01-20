@@ -7,7 +7,7 @@ layout: page
 
 <h2>Sponsorship Benefits</h2>
 
-<h3>General Sponsorship - TBC</h3>
+<h3>General Sponsorship - £1,450 + VAT 20%</h3>
 <p>Be a core supporter of the {{ site.conference.name }} conference and gain prominent placement of your organisation and message to conference attendees leading up to and throughout the conference.</p>
 <ul>
    <li>Large logo on the conference website</li>
@@ -20,7 +20,7 @@ layout: page
 </ul>
 
 
-<h3>Dinner Package - TBC (Two Available)</h3>
+<h3>Dinner Package - £1,250 + VAT 20% (Two Available)</h3>
 <p>Sponsor one of the conference dinners and gain focused attention from the conference's attendees in a friendly an relaxed environment, as they are gathered for a sociable evening meal.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
@@ -29,12 +29,21 @@ layout: page
    <li>Logo on the conference website.</li>
 </ul>
 
-<h3>Lunch Package - TBC (Three Available)</h3>
+<h3>Lunch Package - £950 + VAT 20% (Three Available)</h3>
 <p>Sponsor one of the conference lunches and gain attention from attendees as they are gathered together for one of {{ site.conference.name }}'s buffet lunches, where attendees mingle and share their experiences of the conference that morning.</p>
 <ul>
    <li>Public thanks to the sponsor at conference plenary sessions</li>
    <li>Opportunity to run a "brown bag" session for the conference attendees during the lunch break</li>
    <li>Opportunity to display sponsor banners during the lunch break</li>
+   <li>Logo on the conference website</li>
+</ul>
+
+<h3>Sponsor a Speaker  Package - £ contact us</h3>
+<p>Help the conference and the community by sponsoring the travel and accommodation costs for a speaker! The conference is a no-profit event, organised by unpaid volunteers, and any money made is used by BCS to organise free community events, as well as the next SPA conference.</p>
+<ul>
+   <li>Public thanks to the sponsor at conference plenary sessions</li>
+   <li>Thanks and acknowledgement on conference social media channels</li>
+   <li>Opportunity to display sponsor banners at the conference</li>
    <li>Logo on the conference website</li>
 </ul>
 
