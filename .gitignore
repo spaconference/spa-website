@@ -1,1 +1,4 @@
 _site
+vendor
+.jekyll-metadata
+.DS_Store
