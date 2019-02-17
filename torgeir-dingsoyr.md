@@ -1,11 +1,11 @@
 ---
-title: Location
+title: Keynote Speaker  at SPA 2019
 layout: page
 ---
 
-# Torgeir Dingsøyr, Keynote Speaker at SPA 2019
+# Torgeir Dingsøyr
 
-## <img src="{{ '/images/torgeir.jpg' | relative_url }}" alt="Torgeir Dingsøyr" height="500" />
+## <img src="{{ '/images/keynote_speakers/torgeir-dingsoyr.jpg' | relative_url }}" alt="Torgeir Dingsøyr" height="500" />
 
 ## Agile Development in Large-Scale: Challenges and Insight from Research
 
@@ -14,4 +14,5 @@ Agile methods were aimed at small, co-located teams developing non-critical soft
 ## Bio 
 
 Torgeir Dingsøyr is chief scientist at the SINTEF research foundation and adjunct professor at Department of Computer Science, Norwegian University of Science and Technology. He has conducted empirical studies of teamwork, knowledge management and recently large-scale agile projects. He is co-editor of the special issue on Large-Scale Agile Development in IEEE Software (March/April 2019). He is a member of a research group which has been ranked most active group in the world on agile software development. He is currently on a research stay at the Open University and with the University of London, Royal Holloway.
+
 More information: https://www.ntnu.edu/employees/dingsoyr

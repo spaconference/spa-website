@@ -375,18 +375,18 @@ header nav a:active {
     #main section h1 + h2 {
         margin-top:             0;
     }
-    #main section:nth-child(even) .inner,
+    #main section:nth-child(2n+3) .inner,
     #main section:last-child .inner {
         padding-left:           30px;
         padding-right:          360px;
     }
-    #main section:nth-child(even) h1,
+    #main section:nth-child(2n+3) h1,
     #main section:last-child h1 {
         float:                  none;
         margin-left:            0;
         width:                  auto;
     }
-    #main section:nth-child(even) img.round,
+    #main section:nth-child(2n+3) img.round,
     #main section:last-child img.round {
         float:                  right;
         margin-right:           -330px;

@@ -1,11 +1,11 @@
 ---
-title: Location
+title: Keynote Speaker at SPA 2019
 layout: page
 ---
 
-# Rachel Davies, Keynote Speaker at SPA 2019
+# Rachel Davies
 
-## <img src="{{ '/images/rachel-davies.jpg' | relative_url }}" alt="Rachel Davies" />
+## <img src="{{ '/images/keynote_speakers/rachel-davies.jpg' | relative_url }}" alt="Rachel Davies" />
 
 *Rachel Davies, Tes Global*
 
@@ -15,5 +15,5 @@ Curious about how to build and sustain a ‘remote-first’ culture? At Tes we h
 
 ## Bio
 
-Rachel Davies is a world-renowned expert in Agile approaches to software development, especially Extreme Programming (XP) and an author of the first book on Agile Coaching . In 30 years, she’s seen programming languages and design methodologies come and go. Her current role is as a senior software engineer developing JavaScript micro-services at Tes Global, a digital education. 
+Rachel Davies is a world-renowned expert in Agile approaches to software development, especially Extreme Programming (XP) and an author of the first book on Agile Coaching . In 30 years, she’s seen programming languages and design methodologies come and go. Her current role is as a senior software engineer developing JavaScript micro-services at Tes Global, a digital education company that aims to develop products and services that will make the greatest difference in global education.
 
