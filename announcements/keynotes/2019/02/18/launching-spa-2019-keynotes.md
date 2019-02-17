@@ -1,5 +1,5 @@
 ---
-title: Announcing SPA 2019 Keynote Speakers
+title: Announcing SPA 2019 Keynote Speakers Rachel Davies, Simon Brown and Torgeir Dingsøyr
 layout: page
 ---
 <div style="float: left; width: 25%; margin-right: 3%; font-size: 0.8em;">
@@ -8,12 +8,12 @@ layout: page
     Rachel Davies</a>
 </div>
 <div style="float: left; width: 25%; margin-right: 3%; font-size: 0.8em">
-    <a href="{{ '/simon-brown.html' | relative_url }}"><img src="{{ '/images/keynote_speakers/simon-brown.JPG' | relative_url }}" style="width: 100%;" alt="Simon Brown" />
+    <a href="{{ '/simon-brown.html' | relative_url }}"><img src="{{ '/images/keynote_speakers/simon-brown.jpg' | relative_url }}" style="width: 100%;" alt="Simon Brown" />
 
     Simon Brown</a>
 </div>
 <div style="float: left; width: 25%; margin-right: 3%; font-size: 0.8em">
-    <a href="{{ '/torgeir-dingsoyr.html' | relative_url }}"><img src="{{ '/images/keynote_speakers/torgeir-dingsoyr2.JPG' | relative_url }}" style="width: 100%;" alt="Torgeir Dingsøyr" />
+    <a href="{{ '/torgeir-dingsoyr.html' | relative_url }}"><img src="{{ '/images/keynote_speakers/torgeir-dingsoyr2.jpg' | relative_url }}" style="width: 100%;" alt="Torgeir Dingsøyr" />
 
     Torgeir Dingsøyr</a>
 </div>

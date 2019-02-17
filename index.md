@@ -18,13 +18,13 @@ layout: page
 </div>
 <div style="float: left; width: 25%; margin-right: 3%; font-size: 0.8em">
     <a href="{{ '/simon-brown.html' | relative_url }}">
-    	<img src="{{ '/images/keynote_speakers/simon-brown.JPG' | relative_url }}" style="width: 100%;" alt="Photo of Simon Brown" />
+    	<img src="{{ '/images/keynote_speakers/simon-brown.jpg' | relative_url }}" style="width: 100%;" alt="Photo of Simon Brown" />
 
     Simon Brown</a>
 </div>
 <div style="float: left; width: 25%; margin-right: 3%; font-size: 0.8em">
     <a href="{{ '/torgeir-dingsoyr.html' | relative_url }}">
-    	<img src="{{ '/images/keynote_speakers/torgeir-dingsoyr2.JPG' | relative_url }}" style="width: 100%;" alt="Photo of Torgeir Dingsøyr" />
+    	<img src="{{ '/images/keynote_speakers/torgeir-dingsoyr2.jpg' | relative_url }}" style="width: 100%;" alt="Photo of Torgeir Dingsøyr" />
 
     Torgeir Dingsøyr</a>
 </div>
