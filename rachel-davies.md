@@ -5,7 +5,7 @@ layout: page
 
 # Rachel Davies
 
-## <img src="{{ '/images/keynote_speakers/rachel-davies.jpg' | relative_url }}" alt="Rachel Davies" />
+## <img src="{{ '/images/keynote_speakers/rachel-davies-ma3-400.jpg' | relative_url }}" alt="Rachel Davies" />
 
 *Rachel Davies, Tes Global*
 
