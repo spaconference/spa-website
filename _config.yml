@@ -26,7 +26,7 @@ exclude:
   - sponsors.md
   - book-now.md
   - bofs.md
-  # - news.md
+  # - news.html
 
 baseurl: /spa2019
 
@@ -58,6 +58,6 @@ conference:
     - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
-    - news.md
+    - news.html
     - url: https://spaconference.org/scripts/myprofile.php
       title: "My SPA"
