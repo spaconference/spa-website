@@ -26,7 +26,7 @@ exclude:
   - sponsors.md
   - book-now.md
   - bofs.md
-  # - news.html
+  - news.html
 
 baseurl: /spa2019
 
@@ -38,9 +38,9 @@ conference:
   cfp_deadline_time: 11:59 PM
   cfp_early_feedback_deadline: 21st January 2019
   cfp_close_date: 24th February 2019
-  reviewing_deadline: 7th March 2019
-  programme_meeting_date: 9th March 2019
-  programme_announce_date: Mid-April 2019
+  reviewing_deadline: 15th March 2019
+  programme_meeting_date: 24th March 2019
+  programme_announce_date: End-April 2019
   shepherding_dates: 1st April &ndash; 23th June 2019
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to

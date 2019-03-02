@@ -5,6 +5,7 @@ has-nav: lead-a-session
 ---
 <div>
 	<h3>Submission deadline: {{ site.conference.cfp_close_date }} </h3>
+		<p><b>The CfP is now closed.</b> We are currently reviewing submissions. This information is to help reviewers and submitters to improve session submissions.</p>
 		<p>{{ site.conference.name }} is about practitioners sharing experiences from any aspect of software development - technology, people and process - sharing their thoughts and knowledge, and learning together. It is about building a community of attendees that can learn and share new, interesting and thought provoking experiences from the broadest spectrum of their profession.  </p>
 	<h3>Sessions are 75 minutes, or 150 minutes with a break in the middle</h3>
 		<p>All the sessions are interactive. We believe in the power of physically doing; be it through practice, thoughtful evaluation, discussion or games. In this way everyone can be an active participant and learn by doing. It helps give {{ site.conference.name }} it's particular vibe.</p>
