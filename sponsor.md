@@ -19,8 +19,8 @@ layout: page
    <li>Opportunity to give a 10 minute "lightning talk" at a plenary session</li>
    <li>Opportunity to distribute promotional material at the conference</li>
    <li>Your marketing and other promotional materials inserted into participant packs</li>
+   <li>Two corporate tickets at a 20% discount</li>
 </ul>
-
 
 <h3>Dinner Package - £1,250 + VAT 20% (Two Available)</h3>
 <p>Sponsor one of the conference dinners and gain focused attention from the conference's attendees in a friendly an relaxed environment, as they are gathered for a sociable evening meal.</p>
@@ -29,6 +29,7 @@ layout: page
    <li>Opportunity to run a "brown bag" session for the conference attendees directly before or after dinner</li>
    <li>Opportunity to display sponsor banners during the dinner event</li>
    <li>Logo on the conference website.</li>
+   <li>Two corporate tickets at a 15% discount</li>
 </ul>
 
 <h3>Lunch Package - £1250 + VAT 20% (Three Available)</h3>
@@ -38,6 +39,7 @@ layout: page
    <li>Opportunity to run a "brown bag" session for the conference attendees during the lunch break</li>
    <li>Opportunity to display sponsor banners during the lunch break</li>
    <li>Logo on the conference website</li>
+   <li>One corporate ticket at a 15% discount</li>
 </ul>
 
 <h3>Sponsor a Speaker  Package - £ contact us</h3>
