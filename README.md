@@ -19,6 +19,11 @@ To run the site locally:
 bundle exec jekyll serve --watch
 ```
 
+To run the site locally with Docker
+```
+docker-compose up
+```
+
 The `--watch` means that you will not have to restart the server to see changes reflected on your locally running site. However, you always need to restart if you make changes to `_config.yml`.
 
 The output of this command will tell you where the site is running locally. It will be something like `localhost:4000/$base_url/` (note the closing slash).
