@@ -6,10 +6,17 @@ layout: page
 <h2>Conference Ticket</h2>
 <p>3 day conference ticket, includes catered lunches, and dinner on the 24th and 25th</p>
 
-<p>Regular rate (for companies paying for their employees): £425.00 + £26.09 FEE & VAT</p>
-<p>Self paid discount rate (for individuals paying out of their own pockets): £330.00 + £20.39 FEE & VAT</p>
-<p>Student rate: £95.00 + £6.29 FEE & VAT</p>
-
+<table border="1">
+<tr><td>
+Regular rate (for companies paying for their employees)</td><td>£425.00 + £26.09 FEE & VAT
+</td></tr>
+<tr><td>
+Self paid discount rate (for individuals paying out of their own pockets)</td><td>£330.00 + £20.39 FEE & VAT
+</td></tr>
+<tr><td>
+Student rate</td><td>£95.00 + £6.29 FEE & VAT
+</td></tr>
+</table>
 <p><a href="https://www.eventbrite.co.uk/e/spa-2019-tickets-58433478106" class="cta">Book Now</a></p>
 
 <h2>Refund policy</h2>
