@@ -24,7 +24,7 @@ exclude:
   # - submission-stages.md
   # - sponsor.md
   - sponsors.md
-  - book-now.md
+  #- book-now.md
   - bofs.md
   - news.html
 
