@@ -16,8 +16,14 @@ Self paid discount rate (for individuals paying out of their own pockets)</td><t
 <tr><td>
 Student rate</td><td>£95.00 + £6.29 FEE & VAT
 </td></tr>
+<tr><td>
+Under-represented and minority groups rate</td><td>£95.00 + £6.29 FEE & VAT
+</td></tr>
 </table>
-<p><a href="https://www.eventbrite.co.uk/e/spa-2019-tickets-58433478106" class="cta">Book Now</a></p>
+<p>
+<a href="https://www.eventbrite.co.uk/e/spa-2019-tickets-58433478106" class="cta">Book now (regular / self paid / student)</a>
+<a href="https://forms.gle/BGp2krXtYvS4gjZC6" class="cta">Book now (under-represented and minority groups)</a>
+</p>
 
 <h2>Refund policy</h2>
 
