@@ -48,12 +48,11 @@ conference:
   # The order here dictates the display order, and items can be removed
   # by commenting out (or just deleting)
   site_navigation:
-    # -
-    #  url: https://www.spaconference.org/spa2019/programme.html
-    #  title: Programme
+    - url: https://www.spaconference.org/spa2019/programme.html
+      title: Programme
     - sponsor.md
     # - sponsors.md
-    - lead-a-session.md
+    # - lead-a-session.md
     - location.md
     - organisers.md
     - previous-conferences.md
