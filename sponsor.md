@@ -39,7 +39,7 @@ layout: page
    <li>Opportunity to run a "brown bag" session for the conference attendees during the lunch break</li>
    <li>Opportunity to display sponsor banners during the lunch break</li>
    <li>Logo on the conference website</li>
-   <li>Two corporate ticket at a 15% discount</li>
+   <li>Two corporate tickets at a 15% discount</li>
 </ul>
 
 <h3>Sponsor a Speaker  Package - £ contact us</h3>
