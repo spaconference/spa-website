@@ -50,7 +50,7 @@ conference:
   site_navigation:
     - url: https://www.spaconference.org/spa2019/programme.html
       title: Programme
-    - sponsor.md
+    # - sponsor.md
     - sponsors.md
     # - lead-a-session.md
     - location.md
