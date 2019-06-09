@@ -32,6 +32,6 @@ As part of the Zuhlke Technology Group, Zuhlke Engineering can draw on the exper
 
 <h1>Lunch sponsor</h1>
 
-## ![Contino]( {{ '/images/Contino_Logo_DarkGrey_Large_Web.png' | relative_url }}){: width="300"}
+## ![Contino]( {{ '/images/Contino_Logo_DarkGrey_Large_Web.png' | relative_url }}){: width="300" }
 
-Contino is an industry leading transformational tech-consultancy. We partner with the world's leading brands to accelerate innovation through the successful adoption of Enterprise DevOps and Cloud Computing.
+[Contino](https://www.contino.io) is an industry leading transformational tech-consultancy. We partner with the world's leading brands to accelerate innovation through the successful adoption of Enterprise DevOps and Cloud Computing.
