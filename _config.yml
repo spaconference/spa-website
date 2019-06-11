@@ -23,7 +23,7 @@ exclude:
   # - interactivity.md
   # - submission-stages.md
   # - sponsor.md
-  - sponsors.md
+  # - sponsors.md
   #- book-now.md
   - bofs.md
   - news.html
@@ -50,8 +50,8 @@ conference:
   site_navigation:
     - url: https://www.spaconference.org/spa2019/programme.html
       title: Programme
-    - sponsor.md
-    # - sponsors.md
+    # - sponsor.md
+    - sponsors.md
     # - lead-a-session.md
     - location.md
     - organisers.md
