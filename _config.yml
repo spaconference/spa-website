@@ -26,6 +26,7 @@ exclude:
   - sponsors.md
   #- book-now.md
   - bofs.md
+  - bof.md
   - news.html
 
 baseurl: /spa2019
