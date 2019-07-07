@@ -208,6 +208,12 @@ textarea {
   input[type=password] {
       width:                380px;
   }
+  .edit_programme input[type=text] {
+      width:                auto;
+  }
+  .edit_programme input.time {
+      width:                120px;
+  }
   textarea {
     width:                  560px;
   }
