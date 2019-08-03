@@ -29,27 +29,27 @@ exclude:
   - bof.md
   - news.html
 
-baseurl: /spa2019
+baseurl: /spa2020
 
 conference:
-  current_year: 2019
+  current_year: 2020
   name: SPA Software in Practice
-  name_with_year: SPA Software in Practice 2019
-  dates: 24th &ndash; 26th June 2019
+  name_with_year: SPA Software in Practice 2020
+  dates: dates TBC
   cfp_deadline_time: 11:59 PM
-  cfp_early_feedback_deadline: 21st January 2019
-  cfp_close_date: 24th February 2019
-  reviewing_deadline: 15th March 2019
-  programme_meeting_date: 24th March 2019
-  programme_announce_date: End-April 2019
-  shepherding_dates: 1st April &ndash; 23th June 2019
+  cfp_early_feedback_deadline: 21st January 2020
+  cfp_close_date: 24th February 2020
+  reviewing_deadline: 15th March 2020
+  programme_meeting_date: 24th March 2020
+  programme_announce_date: End-April 2020
+  shepherding_dates: 1st April &ndash; 23th June 2020
   # This controls the site-wide navigation. Items should either be a
   # dictionary containing url and title, or the filename of the page to
   # link to (whose title will be the text of the link).
   # The order here dictates the display order, and items can be removed
   # by commenting out (or just deleting)
   site_navigation:
-    - url: https://www.spaconference.org/spa2019/programme.html
+    - url: https://www.spaconference.org/spa2020/programme.html
       title: Programme
     # - sponsor.md
     - sponsors.md
