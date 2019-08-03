@@ -8,17 +8,13 @@ layout: page
 
 <h3>Conference chairs</h3>
 
-Gen Ashley <em>Women Who Code</em><br />
 Giovanni Asproni <em>Zuhlke</em><br />
 <a href="mailto:conference@spaconference.org">conference@spaconference.org</a>
 
 <h3>Programme chair</h3>
 Jason Ayers <em>Cincom Systems</em><br />
+Nat Pryce <em>?</em><br />
 <a href="mailto:programme@spaconference.org">programme@spaconference.org</a>
-
-<h3>Marketing chair</h3>
-Nick Tune <em>Salesforce</em><br />
-<a href="mailto:marketing@spaconference.org">marketing@spaconference.org</a>
 
 <h3>Events executive</h3>
 Mandy Bauer <em>BCS</em>
