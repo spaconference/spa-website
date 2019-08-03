@@ -13,18 +13,21 @@ exclude:
   - Gemfile*
   - scripts
   - deploy_rsa*
+  - docker-compose.yml
   # BELOW are pages that are not yet published for this year
   # Comment out from this list when published
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  # - lead-a-session.md
-  # - info-for-speakers.md
-  # - interactivity.md
-  # - submission-stages.md
-  # - sponsor.md
-  # - sponsors.md
-  #- book-now.md
+  - lead-a-session.md
+  - info-for-speakers.md
+  - interactivity.md
+  - submission-stages.md
+  - successful-sessions.md
+  - social.html
+  - sponsor.md
+  - sponsors.md
+  - book-now.md
   - bofs.md
   - bof.md
   - news.html
@@ -49,10 +52,10 @@ conference:
   # The order here dictates the display order, and items can be removed
   # by commenting out (or just deleting)
   site_navigation:
-    - url: https://www.spaconference.org/spa2020/programme.html
-      title: Programme
+    #- url: https://www.spaconference.org/spa2020/programme.html
+    #  title: Programme
     # - sponsor.md
-    - sponsors.md
+    # - sponsors.md
     # - lead-a-session.md
     - location.md
     - organisers.md
