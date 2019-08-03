@@ -58,6 +58,6 @@ conference:
     - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
-    - news.html
+    # news.html
     - url: https://spaconference.org/scripts/myprofile.php
       title: "My SPA"
