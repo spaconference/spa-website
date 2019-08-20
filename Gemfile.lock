@@ -256,6 +256,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  nokogiri (>= 1.10.4)
 
 BUNDLED WITH
    1.16.1
