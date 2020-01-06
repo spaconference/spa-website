@@ -16,8 +16,11 @@ You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site lo
 To run the site locally:
 
 ```
-bundle exec jekyll serve --watch
+./scripts/serve-local.sh
 ```
+
+And then open http://localhost:4000/{conference-year}
+
 
 To run the site locally with Docker
 ```
