@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.3.3
+- 2.6.5
 script: scripts/build.sh /spa2020
 branches:
   only:
