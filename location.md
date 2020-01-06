@@ -34,4 +34,4 @@ Located in the City of London, the venue is easy to reach by public transport an
 [Here's a link to Google maps](https://www.google.com/maps?ll=51.51598,-0.087472&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=25+Copthall+Ave+London+EC2R+7BP).
 
 
-When you have signed in with security, please head up to the first floor where the conference will take place.
+When you have signed in with security, please follow the signs to where the conference will take place.
