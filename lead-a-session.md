@@ -67,5 +67,5 @@ Programme announced: {{ site.conference.programme_announce_date }}
 
 If you want to be notified when the important dates are coming up, please register at <a href="https://spaconference.org/scripts/myprofile.php">My SPA</a> and select the option to receive communications by us.
 
-If you're uncertain about whether to submit your idea, or have other queries, please feel free to get in touch with us at programme@spaconference.org (Jason Ayers, Programme Chair, {{ site.conference.name_with_year }})
+If you're uncertain about whether to submit your idea, or have other queries, please feel free to get in touch with us at [programme@spaconference.org](mailto:programme@spaconference.org) (Jason Ayers, Programme Chair, {{ site.conference.name_with_year }}).
 
