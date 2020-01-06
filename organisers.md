@@ -13,7 +13,7 @@ Giovanni Asproni <em>Zuhlke</em><br />
 
 <h3>Programme chair</h3>
 Jason Ayers <em>Cincom Systems</em><br />
-Nat Pryce <em>?</em><br />
+Nat Pryce <em>Technemetis Ltd.</em><br />
 <a href="mailto:programme@spaconference.org">programme@spaconference.org</a>
 
 <h3>Events executive</h3>

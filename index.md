@@ -11,7 +11,7 @@ layout: page
 <section><div class="inner">
 <h1>The location</h1>
 <img src="{{ '/images/bcs-london.jpg' | relative_url }}" alt="Photo of BCS office" width="250" height="250" class="round"/>
-<p>{{ site.conference.name_with_year }} will take place in the excellent facilities provided by the BCS’s London office. Located in the heart of London’s West End on Southampton Street, just a few moments walk from Covent Garden, the venue is easy to reach by public transport and is located near a wide range of hotels.  </p>
+<p>{{ site.conference.name_with_year }} will take place in the excellent facilities provided by the BCS’s London office. Located in the City of London on Copthall Avenue, just a few moments walk from Moorgate and Liverpool Street stations, the venue is easy to reach by public transport and is located near a wide range of hotels.  </p>
 <a href="{{ '/location.html' | relative_url }}">More about the location.</a>
 </div>
 </section>
