@@ -57,10 +57,10 @@ We are always looking for people to help shepherd, so please do let us know if y
 
 ## Key dates
 
-* Feedback: {{ site.conference.cfp_early_feedback_deadline }} &ndash; {{ site.conference.cfp_close_date }}</
-* Review: {{ site.conference.cfp_close_date }} &ndash; {{ site.conference.reviewing_deadline }}</
-* Programme Meeting: {{ site.conference.programme_meeting_date }}</
-* Shepherding: {{ site.conference.shepherding_dates }}</
-* Programme announced: {{ site.conference.programme_announce_date }}</
+* Feedback: {{ site.conference.cfp_early_feedback_deadline }} &ndash; {{ site.conference.cfp_close_date }}
+* Review: {{ site.conference.cfp_close_date }} &ndash; {{ site.conference.reviewing_deadline }}
+* Programme Meeting: {{ site.conference.programme_meeting_date }}
+* Shepherding: {{ site.conference.shepherding_dates }}
+* Programme announced: {{ site.conference.programme_announce_date }}
 
 If you have any questions or would like to be involved, please contact us at [programme@spaconference.org](mailto:programme@spaconference.org) (Jason Ayers, Programme Chair, {{ site.conference.name_with_year }}).
