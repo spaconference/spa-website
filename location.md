@@ -3,7 +3,7 @@ title: Location
 layout: page
 ---
 
-<img style="margin: 0px 3px 15px 15px; float: right;" src="{{ '/images/BCSLondon.jpg' | relative_url }}" alt="BCS London venue atrium" width="363" height="480" />
+<img style="margin: 0px 3px 15px 15px; float: right;" src="{{ '/images/venue-interior.jpg' | relative_url }}" alt="BCS London venue atrium" width="363" height="480" />
 
 {{ site.conference.name_with_year }} will take place in the BCS's London Office.
 
