@@ -3,7 +3,7 @@ title: Location
 layout: page
 ---
 
-<img style="margin: 0px 3px 15px 15px; float: right;" src="{{ '/images/BCSLondon.jpg' | relative_url }}" alt="BCS London venue atrium" width="363" height="480" />
+<img style="margin: 0px 3px 15px 15px; float: right;" src="{{ '/images/venue-interior.jpg' | relative_url }}" alt="BCS London venue atrium" width="363" height="480" />
 
 {{ site.conference.name_with_year }} will take place in the BCS's London Office.
 
@@ -15,11 +15,11 @@ EC2R 7BP
 
 <h2>Accessibility</h2>
 
-The venue is wheelchair-accessible. There is a lift, no steps, and the front and back door are all smooth. In case of emergency the staff will help with access.
+The venue is wheelchair-accessible. There is a lift, no steps, and the entrance is smooth. In case of emergency the staff will help with access.
 
 There is a wheelchair-accessible toilet.
 
-All toilets are gender-neutral; there are no female/male signs. There are 5 toilets in total, including the wheelchair-accessible toilet.
+All toilets are gender-neutral — there are no female/male signs — and there is a wheelchair-accessible toilet.
 
 Guide dogs are welcome and we will provide water.
 
