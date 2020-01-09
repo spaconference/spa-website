@@ -15,11 +15,11 @@ EC2R 7BP
 
 <h2>Accessibility</h2>
 
-The venue is wheelchair-accessible. There is a lift, no steps, and the front and back door are all smooth. In case of emergency the staff will help with access.
+The venue is wheelchair-accessible. There is a lift, no steps, and the entrance is smooth. In case of emergency the staff will help with access.
 
 There is a wheelchair-accessible toilet.
 
-All toilets are gender-neutral; there are no female/male signs. There are 5 toilets in total, including the wheelchair-accessible toilet.
+All toilets are gender-neutral — there are no female/male signs — and there is a wheelchair-accessible toilet.
 
 Guide dogs are welcome and we will provide water.
 
