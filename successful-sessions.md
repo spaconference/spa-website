@@ -16,7 +16,7 @@ has-nav: lead-a-session
  		<li><a href="https://spaconference.org/spa2018/sessions/session751.html"><span>Behind the AI Curtain - Designing for Trust in Machine Learning Products</span></a></li>
  		<li><a href="https://spaconference.org/spa2018/sessions/session815.html"><span>Better Whiteboard Sketches</span></a></li>
  		<li><a href="https://www.spaconference.org/spa2015/sessions/session643.html"><span>Exploring Emergent Design with TDD</span></a></li>
- 		<li><a href="https://www.spaconference.org/spa2014/sessions/session566.html"><span>*Getting Started with Data Science</span></a></li>
+ 		<li><a href="https://www.spaconference.org/spa2014/sessions/session566.html"><span>Getting Started with Data Science</span></a></li>
  		<li><a href="https://www.spaconference.org/spa2014/sessions/session595.html"><span>Less mocking, less brittle tests</span></a></li>
  		<li><a href="https://spaconference.org/spa2018/sessions/session802.html"><span>Negotiating For Your Life</span></a></li>
  		<li><a href="https://www.spaconference.org/spa2015/sessions/session603.html"><span>#NoEstimates does not mean "no estimates"</span></a></li>
@@ -31,13 +31,9 @@ has-nav: lead-a-session
 	<br>
 	<p>Here are the programmes for the past four conferences if you want to get a broader feel.</p>
 	<ul>
-  		<li><a href="https://spaconference.org/spa2018/programme.html"><span>SPA Software in Practice 2018 Programme</span></a></li>
+  	<li><a href="https://spaconference.org/spa2019/programme.html"><span>SPA Software in Practice 2019 Programme</span></a></li>
+  	<li><a href="https://spaconference.org/spa2018/programme.html"><span>SPA Software in Practice 2018 Programme</span></a></li>
 		<li><a href="https://spaconference.org/spa2017/programme.html"><span>SPA2017 Programme</span></a></li>
 		<li><a href="https://spaconference.org/spa2016/programme.html"><span>SPA2016 Programme</span></a></li>
-		<li><a href="https://spaconference.org/spa2015/programme.html"><span>SPA2015 Programme</span></a></li>
 	</ul>
 </div>
-
-
-
-
