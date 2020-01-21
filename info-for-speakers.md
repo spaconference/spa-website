@@ -23,18 +23,6 @@ If your employer or organisation is able to cover your travel and accommodation 
 
 We really don’t want anyone not to present because they can’t afford to come. If you think travel costs will be an issue just tick the box in the session proposal form. It will not affect selection of your session.
 
-## Keynote speaker expenses
-
-We will pay <strong>travel expenses</strong> within these limits for each keynote speaker:
-
-* £300 for travel from UK and Ireland
-* £400 for travel from the EU
-* £1,000 for travel from the rest of the world
-
-You will need to provide receipts of your travel expenses and will be reimbursed after the conference. Please let us know if the upper limit or being reimbursed after the event will present problems.
-
-We will also offer <strong>up to 4 nights accommodation</strong> for all out-of-town keynote speakers at the conference hotel.
-
 ## Terms and conditions
 
 We would also like to bring your attention to the {{ site.conference.name }} <a href="{{ '/terms-and-conditions.html' | relative_url }}">terms and conditions</a>.
