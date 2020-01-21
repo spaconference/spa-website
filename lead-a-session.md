@@ -21,11 +21,11 @@ We’ve also had some great sessions on topics you might not expect at a softwar
 
 At {{ site.conference.name }} you can experiment and try something new, or bring a session you’ve perfected elsewhere - we value both. All submissions get feedback to help them improve, and accepted sessions will be assigned a shepherd to help with preparation so we’ll support you along the way.
 
-You can get an idea of the sort of sessions that have run previously from the <a href="{{ '/successful-sessions.html' | relative_url }}">sample of some of the past sessions</a> from the last four years' conferences. We have selected them to give you some indication of the range of topics and how the application form has been completed by others.
+You can get an idea of the sort of sessions that have run previously from the [sample of some of the past sessions](successful-sessions.html) from the last four years' conferences. We have selected them to give you some indication of the range of topics and how the application form has been completed by others.
 
 But don't be constrained by any of these ideas; maybe you've got something totally new to share. We'd like to hear it.
 
-We’d love to see in your proposal how you’ll make your session interactive and get participants involved. You can get some ideas of ways to do that from our page of suggestions for <a href="{{ '/interactivity.html' | relative_url }}">improving interactivity</a> or propose anything else you like.
+We’d love to see in your proposal how you’ll make your session interactive and get participants involved. You can get some ideas of ways to do that from our page of suggestions for [improving interactivity](interactivity.html) or propose anything else you like.
 
 ## Who do we want to hear from?
 
@@ -35,7 +35,7 @@ We particularly encourage speakers who are new to presenting at {{ site.conferen
 
 ## The submission and selection process
 
-To submit your proposal, complete the <a href="https://spaconference.org/scripts/makeproposal.php">Submit a proposal for a session</a> form.
+To submit your proposal, complete the [Submit a proposal for a session](https://spaconference.org/scripts/makeproposal.php) form.
 
 Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.
 
@@ -43,13 +43,13 @@ All sessions submitted by {{ site.conference.cfp_deadline_time }} on {{ site.con
 
 Submissions can be edited until the final deadline of {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_close_date }}.
 
-For more detail take a look at  <a href="{{ '/submission-stages.html' | relative_url }}">the submission and selection process</a>.
+For more detail take a look at [the submission and selection process](submission-stages.html).
 
 ## What we offer
 
-We will help you make your session the best it can be, both through our feedback process prior to the submissions deadline and our shepherding process if your session is accepted. More detail on these stages is provided in <a href="{{ '/submission-stages.html' | relative_url }}">the submission and selection process</a>.
+We will help you make your session the best it can be, both through our feedback process prior to the submissions deadline and our shepherding process if your session is accepted. More detail on these stages is provided in [the submission and selection process](submission-stages.html).
 
-The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, you will receive a full refund. We have set out <a href="{{ '/terms-and-conditions.html' | relative_url }}">the terms and conditions</a> for our speakers; please be sure to read before applying.
+The first two named presenters of each accepted session receive a free ticket to {{ site.conference.name }}. If you have already purchased a ticket before the programme is announced, you will receive a full refund. We have set out [the terms and conditions](terms-and-conditions.html) for our speakers. Please be sure to read before applying.
 
 The conference is not run for profit but we do have some funds available to help cover travel and accommodation expenses for speakers whose employer will not cover their expenses. If this applies to you, please tick the travel assistance box when you submit your proposal and we’ll get in touch if your talk is selected. (Along with speakers' names, this field won't be visible to anyone during the review process.)
 
