@@ -11,6 +11,9 @@ layout: page
 Giovanni Asproni <em>Zuhlke</em><br />
 <a href="mailto:conference@spaconference.org">conference@spaconference.org</a>
 
+Raul Rodriguez <em>Zuhlke</em><br />
+<a href="mailto:conference@spaconference.org">conference@spaconference.org</a>
+
 <h3>Programme chair</h3>
 Jason Ayers <em>Cincom Systems</em><br />
 Nat Pryce <em>Technemetis Ltd.</em><br />

@@ -18,7 +18,7 @@ layout: page
 
 <section><div class="inner">
 <h1>Organisers</h1>
-<p>The conference is being chaired by Giovanni Asproni.</p>
+<p>The conference is being chaired by Giovanni Asproni and Raul Rodriguez.</p>
 <p>The programme is being organised by Jason Ayers and Nat Pryce.</p>
 <p>Please <a href="{{ '/organisers.html' | relative_url }}">contact us</a> if you have any questions.</p>
 <p></p>
