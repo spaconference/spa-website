@@ -39,9 +39,9 @@ To submit your proposal, complete the [Submit a proposal for a session](https://
 
 Your submission is completely anonymous right up until we have the draft programme - then we just check no-one has too many sessions in, or several at the same time.
 
-All sessions submitted by {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback to help improve the proposal.
+The earlier you submit your proposal, the more chance you have of getting early feedback to help you improve your proposal.   Submissions can be edited until the final deadline of {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_close_date }}.
 
-Submissions can be edited until the final deadline of {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_close_date }}.
+SPA is a collaborative endeavour, and once registered on the SPA website you can give feedback to other sessions and respond to people who have given feedback to your session.
 
 For more detail take a look at [the submission and selection process](submission-stages.html).
 
@@ -58,8 +58,6 @@ The conference is not run for profit but we do have some funds available to help
 The Call for Papers for {{ site.conference.name }} opened on the {{ site.conference.cfp_open_date }}.
 
 The conference: {{ site.conference.dates }} - British Computer Society, London, UK.
-
-Submissions submitted before {{ site.conference.cfp_deadline_time }} on {{ site.conference.cfp_early_feedback_deadline }} will receive feedback and may be resubmitted.
 
 Submissions deadline: {{ site.conference.cfp_deadline_time }}, {{ site.conference.cfp_close_date }}
 

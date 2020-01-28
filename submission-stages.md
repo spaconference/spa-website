@@ -10,9 +10,7 @@ We have several stages after submission of proposals to help make the conference
 
 ## Feedback
 
-The feedback stage is between {{ site.conference.cfp_early_feedback_deadline }} and {{ site.conference.cfp_close_date }}.
-
-During the feedback stage, we look at all the sessions that were submitted by {{ site.conference.cfp_early_feedback_deadline }} and give them feedback to improve the submission and help make it the best it can be before it goes into the review stage. Sessions can be modified and resubmitted until the final deadline of {{ site.conference.cfp_close_date }}.
+Until the CFP closes, you can receive feedback on your proposal to help make it the best it can be before it goes into the review stage. Sessions can be modified and resubmitted until the final deadline of {{ site.conference.cfp_close_date }}. The sooner you submit, the more time you have to receive and respond to feedback. 
 
 We like each submission to have at least three pieces of feedback, so sessions will be ordered such that those with fewest feedback items are at the top but it's up to you which sessions you give feedback on. The more feedback you have time to give, the better, as it can be very helpful to session proposers, especially those not as familiar with {{ site.conference.name }} or new to presenting.
 
@@ -57,7 +55,8 @@ We are always looking for people to help shepherd, so please do let us know if y
 
 ## Key dates
 
-* Feedback: {{ site.conference.cfp_early_feedback_deadline }} &ndash; {{ site.conference.cfp_close_date }}
+* Feedback: until {{ site.conference.cfp_close_date }}
+* CFP closes: {{ site.conference.cfp_close_date }}
 * Review: {{ site.conference.cfp_close_date }} &ndash; {{ site.conference.reviewing_deadline }}
 * Programme Meeting: {{ site.conference.programme_meeting_date }}
 * Shepherding: {{ site.conference.shepherding_dates }}
