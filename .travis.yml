@@ -17,7 +17,7 @@ before_deploy:
 - ssh-add /tmp/deploy_rsa
 deploy:
   provider: script
-  script: scripts/deploy.sh spa2020/
+  script: travis_wait scripts/deploy.sh spa2020/
   skip_cleanup: true
   on:
     branch: master
