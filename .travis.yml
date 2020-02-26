@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.6.5
-script: scripts/build.sh /spa2020
+script: travis_wait scripts/build.sh /spa2020
 branches:
   only:
   - master
