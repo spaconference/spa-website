@@ -3,8 +3,9 @@ layout: page
 ---
 <section><div class="inner">
 <h1>About the Conference</h1>
-<p>The annual BCS {{ site.conference.name }} conference brings together experts and practitioners to share the latest thinking in software development.</p>
-<p>Now in its 25th year, our conference has a tradition of active participation. We encourage conference sessions that bring people together to work and learn and most sessions are highly interactive, involving participants and session leaders on an equal footing. This results in a conference like no other and consistently excellent feedback from all those who attend.</p>
+<p><strong style="color: red;">COVID-19 update: Due to the COVID-19 pandemic, the conference is postponed to spring 2021.The new dates will be announced in due course.</strong></p>
+<!-- <p>The annual BCS {{ site.conference.name }} conference brings together experts and practitioners to share the latest thinking in software development.</p>
+<p>Now in its 25th year, our conference has a tradition of active participation. We encourage conference sessions that bring people together to work and learn and most sessions are highly interactive, involving participants and session leaders on an equal footing. This results in a conference like no other and consistently excellent feedback from all those who attend.</p> -->
 </div>
 </section>
 

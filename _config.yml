@@ -37,7 +37,7 @@ conference:
   current_year: 2020
   name: SPA Software in Practice
   name_with_year: SPA Software in Practice 2020
-  dates: 21st-22nd July 2020
+  dates:
   cfp_deadline_time: 11:59 PM
   cfp_open_date: 13th January 2020
   cfp_early_feedback_deadline: 8th February 2020
@@ -56,7 +56,7 @@ conference:
     #  title: Programme
     # - sponsor.md
     # - sponsors.md
-    - lead-a-session.md
+    # - lead-a-session.md
     - location.md
     - organisers.md
     - previous-conferences.md
