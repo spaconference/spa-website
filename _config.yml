@@ -24,19 +24,19 @@ exclude:
   # - interactivity.md
   # - submission-stages.md
   # - successful-sessions.md
-  - social.md
-  - sponsor.md
-  - sponsors.md
-  - book-now.md
-  - bof.md
-  - news.html
+  #- social.md
+  # - sponsor.md
+  #- sponsors.md
+  #- book-now.md
+  #- bof.md
+  # - news.html
 
-baseurl: /spa2020
+baseurl: /spa2021
 
 conference:
-  current_year: 2020
+  current_year: 2021
   name: SPA Software in Practice
-  name_with_year: SPA Software in Practice 2020
+  name_with_year: SPA Software in Practice 2021
   dates:
   cfp_deadline_time: 11:59 PM
   cfp_open_date: 13th January 2020
@@ -57,10 +57,10 @@ conference:
     # - sponsor.md
     # - sponsors.md
     # - lead-a-session.md
-    - location.md
-    - organisers.md
+    # - location.md
+    # - organisers.md
     - previous-conferences.md
-    - code-of-conduct.md
+    # - code-of-conduct.md
     # news.html
-    - url: https://spaconference.org/scripts/myprofile.php
-      title: "My SPA"
+    # - url: https://spaconference.org/scripts/myprofile.php
+     #  title: "My SPA"
