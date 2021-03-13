@@ -19,11 +19,11 @@ exclude:
   # DO NOT comment back in, we do not want 404s
   # You can remove them from the menu by editing
   # conference.site_navigation, below
-  # - lead-a-session.md
-  # - info-for-speakers.md
-  # - interactivity.md
-  # - submission-stages.md
-  # - successful-sessions.md
+  - lead-a-session.md
+  - info-for-speakers.md
+  - interactivity.md
+  - submission-stages.md
+  - successful-sessions.md
   - social.md
   - sponsor.md
   - sponsors.md
@@ -57,10 +57,10 @@ conference:
     # - sponsor.md
     # - sponsors.md
     # - lead-a-session.md
-    - location.md
+    # - location.md
     - organisers.md
     - previous-conferences.md
     - code-of-conduct.md
     # news.html
-    - url: https://spaconference.org/scripts/myprofile.php
+    - url: http://spaconference-history.org/scripts/myprofile.php
       title: "My SPA"
