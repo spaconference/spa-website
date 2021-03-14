@@ -11,7 +11,16 @@ In addition, previous conference sites are left in situ once the year changes. T
 
 # To run locally
 
-You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.
+You will need [jekyll](https://jekyllrb.com/docs/quickstart/) to run the site locally, and [html-proofer](https://rubygems.org/gems/html-proofer/) to run the tests locally.  These tools are Ruby based and need Ruby 2.2 - 2.6, version 2.7 and version 3.0 do not work with html-proofer as of March 2021.
+
+To just "build" the site with Jekyll and run the html-proofer process:
+
+```
+# adjust argument for year of site being worked on - this is used to
+# adjust URLs and so if it isn't correct then the html-proofer will 
+# fail
+./scripts/build.sh /spa2020
+```
 
 To run the site locally:
 
@@ -19,15 +28,14 @@ To run the site locally:
 ./scripts/serve-local.sh
 ```
 
-And then open http://localhost:4000/{conference-year}
-
+And then open http://localhost:4000/{conference-year}.
 
 To run the site locally with Docker
 ```
 docker-compose up
 ```
 
-The `--watch` means that you will not have to restart the server to see changes reflected on your locally running site. However, you always need to restart if you make changes to `_config.yml`.
+The `--watch` parameter passed to Jekyll in the `serve-local.sh` script means that you will not have to restart the server to see changes reflected on your locally running site. However, you always need to restart if you make changes to `_config.yml`.
 
 The output of this command will tell you where the site is running locally. It will be something like `localhost:4000/$base_url/` (note the closing slash).
 
@@ -51,7 +59,7 @@ bundle exec htmlproofer --assume-extension --url-swap ^/spa2019: ./_site
 
 Do not commit to master. Raise a pull request with your changes and then merge to master when ready. [Travis](https://travis-ci.org/spaconference/spa-website) will run html-proofer on pull requests to confirm that all links exist. You can merge your own pull requests - please ensure all html proofer tests run green.
 
-Merging to master will deploy your changes to the live site.
+Merging to master will deploy your changes to the live site.  _(As of March 2021 present the deploy process appears to be failing for reasons that Eoin has not been able to work out, so the final update to the 2020 site has been deployed manually via FTP.  If we don't find a solution more quickly, we will fix this later in the year when Anna is available.)_
 
 ## If you want to add a page
 
