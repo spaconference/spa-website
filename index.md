@@ -3,22 +3,25 @@ layout: page
 ---
 <section><div class="inner">
 <h1>About the Conference</h1>
-<p><strong style="color: red;">COVID-19 update: Due to the COVID-19 pandemic, the conference is postponed to spring 2021.The new dates will be announced in due course.</strong></p>
-<!-- <p>The annual BCS {{ site.conference.name }} conference brings together experts and practitioners to share the latest thinking in software development.</p>
-<p>Now in its 25th year, our conference has a tradition of active participation. We encourage conference sessions that bring people together to work and learn and most sessions are highly interactive, involving participants and session leaders on an equal footing. This results in a conference like no other and consistently excellent feedback from all those who attend.</p> -->
-</div>
-</section>
-
-<section><div class="inner">
-<h1>The location</h1>
-<img src="{{ '/images/venue-feature.jpg' | relative_url }}" alt="Photo of BCS office" width="250" height="209" class="round"/>
-<p>{{ site.conference.name_with_year }} will take place in the excellent facilities provided by the BCS’s London office. Located in the City of London on Copthall Avenue, just a few moments walk from Moorgate and Liverpool Street stations, the venue is easy to reach by public transport and is located near a wide range of hotels.  </p>
-<a href="{{ '/location.html' | relative_url }}">More about the location.</a>
+<p>
+Due to the COVID-19 pandemic SPA2020 was cancelled, however SPA2021 will continue 
+the tradition of the SPA conference series, but in virtual format, bringing together
+experts and practitioners to share the latest thinking and experience in software development.
+</p>
+<p>
+The website for SPA2021 can be found <a href="https://www.spaconference.org">here</a> 
+and contains all of the information needed to submit session proposals and participate 
+in the conference.
+</p>
+<p>
+We look forward to seeing you in July 2021 at the virtual SPA2021 event!
+</p>
 </div>
 </section>
 
 <section><div class="inner">
 <h1>Organisers</h1>
+<p>The 2021 conference is being chaired by the same team who were organising SPA 2020.</p>
 <p>The conference is being chaired by Giovanni Asproni and Raul Rodriguez.</p>
 <p>The programme is being organised by Jason Ayers and Nat Pryce.</p>
 <p>Please <a href="{{ '/organisers.html' | relative_url }}">contact us</a> if you have any questions.</p>
