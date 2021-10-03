@@ -1,4 +1,4 @@
-# SPA website [![Travis build status](https://api.travis-ci.org/spaconference/spa-website.svg?branch=master)](https://travis-ci.org/spaconference/spa-website)
+# SPA website
 
 Produce the static pages for the website of [SPA: Software in Practice](https://spaconference.org).
 
