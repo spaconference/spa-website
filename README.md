@@ -1,4 +1,6 @@
-# SPA website [![Travis build status](https://api.travis-ci.org/spaconference/spa-website.svg?branch=master)](https://travis-ci.org/spaconference/spa-website)
+# SPA website **DEPRECATED**
+
+**As of [SPA2021](https://spaconference.org) this repo is no longer used to generate the SPA website. The last one it was used for is [SPA2020](http://spaconference-history.org/spa2020).**
 
 Produce the static pages for the website of [SPA: Software in Practice](https://spaconference.org).
 
