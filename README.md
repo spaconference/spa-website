@@ -1,8 +1,8 @@
-# SPA website **DEPRECATED**
+# SPA Website
 
-**As of [SPA2021](https://spaconference.org) this repo is no longer used to generate the SPA website. The last one it was used for is [SPA2020](http://spaconference-history.org/spa2020).**
+**Note:** _For [SPA2021](https://spaconference.org/spa2021) this repo was not used to generate the SPA website and we hosted SPA2021 on Wix, however a static version of that site is still archived [here](https://github.com/spaconference/previous-spa-sites/tree/master/spa2021). For [SPA2022](https://spaconference.org/spa2023) we used a simple static site which is archived [here](https://github.com/spaconference/previous-spa-sites/tree/master/spa2022).  The code in this repo could be used again for a future SPA conference if a more complex site is needed._
 
-Produce the static pages for the website of [SPA: Software in Practice](https://spaconference.org).
+The code in this repo exists to produce the static pages for the website of [SPA: Software in Practice](https://spaconference.org).
 
 The non-static parts of the site are:
 
